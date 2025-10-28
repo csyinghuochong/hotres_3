@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1522856101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ace196fef0d798c16f401ad08c3ec402
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda261e9bafb09aaebdc01905952a468
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ace196fef0d798c16f401ad08c3ec402
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_huodui_001_a.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5ad8a5bb49e221beb553d7f1762655f7.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c15caf8d120e037afef0596c8b9f2c86.unity3d

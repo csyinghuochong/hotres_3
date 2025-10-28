@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3540769313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5dd44bc39f9788c75b5e66127df18db5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5dd44bc39f9788c75b5e66127df18db5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Terrain/Tx_FloorGrass01.jpg
+Dependencies: []

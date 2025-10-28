@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2123588968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 599b3d38f5dc3cb81306562ad3e75bfb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 599b3d38f5dc3cb81306562ad3e75bfb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/TerrainTieTuSet/Textures/Ground/Ground16.tga
+Dependencies: []

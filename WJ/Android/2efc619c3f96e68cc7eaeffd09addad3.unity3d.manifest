@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 770854386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2a51c3bad77801273882b90ec308c55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 798f9fe5d85e7a9aaf07232dc115e5f4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b2a51c3bad77801273882b90ec308c55
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Unit/Unit.prefab
+Dependencies: []

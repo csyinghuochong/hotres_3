@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1949712394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eff7e22b2df01d5c6c3c786351eee80d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eff7e22b2df01d5c6c3c786351eee80d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelRock07.fbx
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/96d5fe15fa27c12d9e564015bbd31c3a.unity3d

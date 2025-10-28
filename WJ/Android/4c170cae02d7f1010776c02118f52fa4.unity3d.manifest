@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 859957275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 971660f05c331a2a9e2c7995ee047b6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 971660f05c331a2a9e2c7995ee047b6a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Materials/roundsmoothitem.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/703fe76b9cc7c07b426c4b2e3fd6e4a1.unity3d

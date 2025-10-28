@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1160357922
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7d53fcd332a461cf88e3dc2b6ade489
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda261e9bafb09aaebdc01905952a468
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c7d53fcd332a461cf88e3dc2b6ade489
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_men_001_b.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/3938fe42ceaa7441955516ae5eaf20fd.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/9800c003b18d37dc4f69646fc8e1e319.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/efbc61e94b85948d4e706d097460a557.unity3d

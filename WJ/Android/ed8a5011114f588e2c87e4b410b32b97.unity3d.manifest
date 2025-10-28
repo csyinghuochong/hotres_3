@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3925508825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61b1bf9ed5ceb6932c5fe3a2d64134d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 61b1bf9ed5ceb6932c5fe3a2d64134d9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Direction115.png
+Dependencies: []

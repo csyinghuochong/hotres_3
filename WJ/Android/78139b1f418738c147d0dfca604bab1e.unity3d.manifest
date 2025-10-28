@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1378207692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 409da50252728234dc8344684a3c248f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 409da50252728234dc8344684a3c248f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_stonekit_01_Normal.png
+Dependencies: []

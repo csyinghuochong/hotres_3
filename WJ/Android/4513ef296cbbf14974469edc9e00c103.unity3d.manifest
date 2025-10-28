@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3952066540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39deee28fec0b159bb89da56111b431a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 39deee28fec0b159bb89da56111b431a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_61.png
+Dependencies: []

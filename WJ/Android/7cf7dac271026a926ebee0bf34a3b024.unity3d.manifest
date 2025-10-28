@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3692022149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d17103f407d05a3b125ed7989eb0103
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0d17103f407d05a3b125ed7989eb0103
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/environment_common_guaqi_001_02.png
+Dependencies: []

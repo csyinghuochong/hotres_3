@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 47444815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8585a70269466724961ae2db791fad86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8585a70269466724961ae2db791fad86
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Mushrooms.jpg
+Dependencies: []

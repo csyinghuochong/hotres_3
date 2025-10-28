@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1921141152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27a16d7f61eb257728151c5e628d7603
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5fe413de19538e97ea9f0db1ce9350f8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 27a16d7f61eb257728151c5e628d7603
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Models/RPGFXVerticalGlow.FBX
+Dependencies: []

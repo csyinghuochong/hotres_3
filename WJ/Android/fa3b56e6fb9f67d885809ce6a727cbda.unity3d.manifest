@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1821183093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32f63adbaf51677824fd2b0233afb6c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e07c6e0615e63ae3c7d9413510c73dcd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 32f63adbaf51677824fd2b0233afb6c0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_24.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0e761752bc680dd4ab50c1379b60f06c.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/3a4a52acd569b73e94383bfbca613350.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/3c63062964f81c66c242d1ad98761a8c.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/432d37375c962cbbe7516cfe8df89be6.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/548e50ac3b7276eac91f5ff22216d784.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/8dad8e9719e980b32bf33a75e68ea001.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c1104d46b4d9a812c2f2803408c99d44.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c8024c401be05e88dcad80de97c1edb8.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/cc6001d9c8cd40506efb1cfb1421f872.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e7ae63ab737ce3b69f5f52a6e8f1ee8f.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ffdf1d6dc56e8941df4f970d01f40ee1.unity3d

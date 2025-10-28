@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 124955009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b92ed2c5525644032e2dfa3fc269a537
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b92ed2c5525644032e2dfa3fc269a537
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Shader62.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7607b63cdf11b1d262d80794dafdd761.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/8972f7a70679988ab64553c07575f81e.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a801e842419c77e04fa9326435e2926f.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/bb1f15f9062ff88493378bf507cad2cb.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/edff8b016b6c27e1593ba89ef19752f9.unity3d

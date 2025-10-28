@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 397187787
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31b6a2c13d3e974b66ae7ee9aa087e92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 31b6a2c13d3e974b66ae7ee9aa087e92
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Materials-E3D/E3D-Loop4-208-bh2.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a435d80d62c584db6818576da7e071dc.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e05b9f38aa72b1faa8c5be87cbe0488b.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e315f954c6c156c5264d92608b6dd12b.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/f53e27b7486cfddcb19c497811b42bee.unity3d

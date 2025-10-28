@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3814230631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 918516111e9f51a9e910274154f0afa1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 918516111e9f51a9e910274154f0afa1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Fire Dragon/Materials/FX-FireBreath.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/33f8ef97bb143824d7b2dc91eef3390a.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4283209369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0dfb6f080bca3b47f6fb4677abd6eb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d0dfb6f080bca3b47f6fb4677abd6eb0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Zoo/Cute Zoo 2/Texture/T_OwlA.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2529133509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6b6aa493d1a2b6559babbcc1f891d30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e6b6aa493d1a2b6559babbcc1f891d30
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_bookset_MaskMap.png
+Dependencies: []

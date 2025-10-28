@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1092953629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d11a652a98b24b7e2e28dc91a4c01f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8d11a652a98b24b7e2e28dc91a4c01f4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TX_glow_xin_guangyun_00001.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/50cf2c9ffc17406c1118d246b4202bea.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a65a72a4631565213e778d33cfa1e9d3.unity3d

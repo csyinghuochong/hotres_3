@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1855763093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa392345bae6331145d0850fc233a3da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fa392345bae6331145d0850fc233a3da
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Broken_Decal.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ae0dc1771bcda0328b0af471d0b9f8ca.unity3d

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 453681145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e3aad1b7b707dda698e5cc7ccb038b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda261e9bafb09aaebdc01905952a468
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2e3aad1b7b707dda698e5cc7ccb038b3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/environment_common_juma_001_a.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/d1957bfc8b9935bf658476e97cdd1da5.unity3d

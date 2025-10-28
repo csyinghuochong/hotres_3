@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2389563791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfdea6c857222e5ca9d2b8546de735c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cfdea6c857222e5ca9d2b8546de735c8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Building_House2.jpg
+Dependencies: []

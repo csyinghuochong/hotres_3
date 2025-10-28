@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4080897036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6c56bad4079ec4d28464cd20fdc5b50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d6c56bad4079ec4d28464cd20fdc5b50
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_smallparts_Normal.png
+Dependencies: []

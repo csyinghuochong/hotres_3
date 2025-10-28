@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2085908925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 789ca59e3f0306cfb80be30c109b95f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82fe691a12584bbdf6042172f8d2a3c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 789ca59e3f0306cfb80be30c109b95f0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundles/UI/Main/Welfare/UIWelfareLogin.prefab
+Dependencies: []

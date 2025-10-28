@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 833919335
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ee624c3cbf21c94d1bd41c9bd3945d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0ee624c3cbf21c94d1bd41c9bd3945d6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-Spell-Vertical-Orange2.anim
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3654325591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6914630a08074f8dc31f2ba4040af17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ed7c328f1279f759ec952b3b01ad3c9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c6914630a08074f8dc31f2ba4040af17
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/KuLou/Prefabs/coffin_01_busted_cemetery.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/80cba57f425605b5eda659e42f9b5253.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ff6bb302bfe20c8ca20680e35cd3da2a.unity3d

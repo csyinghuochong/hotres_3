@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 436161150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 971b62e51816c38ce252e343bff435df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 971b62e51816c38ce252e343bff435df
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_zuoxi_001_01.png
+Dependencies: []

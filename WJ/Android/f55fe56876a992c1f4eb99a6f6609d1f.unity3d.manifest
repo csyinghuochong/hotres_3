@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 125406626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb12f0b7a445f3b9887bce6820380a83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bb12f0b7a445f3b9887bce6820380a83
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_Watermelon_01.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/178f9659ed624decc3278332e76eeb58.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/40315e338acff41c8e17fb1d273e3e88.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c7a589e1dea799c2a94aa2e21c5d7a37.unity3d

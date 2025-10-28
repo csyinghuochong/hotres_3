@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 261602401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd5af3ad304e8f1a0dcb4b740db99c6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fd5af3ad304e8f1a0dcb4b740db99c6f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Textures/environment_building_diaoxiang_004_01.png
+Dependencies: []

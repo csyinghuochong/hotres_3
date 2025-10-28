@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1818248391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 757d3b2eafb119a3610601ca9e575026
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 757d3b2eafb119a3610601ca9e575026
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Other/Warp/Materials/WarpGround.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/42b7e2f8ca75dd8364f6e02eb196a5aa.unity3d

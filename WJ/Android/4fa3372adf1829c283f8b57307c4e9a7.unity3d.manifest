@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2020047916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7117c05493f7aca9e2f1f30a12460c01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7117c05493f7aca9e2f1f30a12460c01
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_guanzi_001_01.png
+Dependencies: []

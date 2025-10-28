@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 37148942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5330bffabce66fbcc3b9d4835b427fb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5330bffabce66fbcc3b9d4835b427fb0
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/MonsterGroupConfigCategory.bytes
+Dependencies: []

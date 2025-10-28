@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3384543791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b5aa2c988928e4e3f34b7768c24123d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8b5aa2c988928e4e3f34b7768c24123d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/zhanshi_2/texture/zhanshi_shangyi.png
+Dependencies: []

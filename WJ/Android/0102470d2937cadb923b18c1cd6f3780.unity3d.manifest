@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3988706248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11a4a53eb9422fe149c65266270f0ac6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 11a4a53eb9422fe149c65266270f0ac6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/Role/RoleAct/Monster_bushoujia_01/attack.anim
+Dependencies: []

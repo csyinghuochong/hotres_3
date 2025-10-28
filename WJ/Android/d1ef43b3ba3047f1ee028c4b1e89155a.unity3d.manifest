@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 4140466466
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9269ece4667d43a549478c594f3588b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b0d6cafd7e4642ca54719fae6ac16d5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9269ece4667d43a549478c594f3588b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5b959fd0e88bdd4891c2cf1dcbe6606, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_MoGuZhaDan.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/2cfb037f5400c58d702a7e22222e2cbd.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/f98647c1e99d54fd6eaef5904c17b38c.unity3d

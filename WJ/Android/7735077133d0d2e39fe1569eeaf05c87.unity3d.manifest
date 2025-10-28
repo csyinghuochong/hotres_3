@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2814422989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa5fa03649d09e7d8a9d257a1349588f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda261e9bafb09aaebdc01905952a468
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fa5fa03649d09e7d8a9d257a1349588f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/environment_building_diaoxiang_004_a.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/52fb8808768a79fb21a9fc109cd239e2.unity3d

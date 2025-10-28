@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1933698449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07d105290dbd0f3e84a365bdf5d1dfdb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 07d105290dbd0f3e84a365bdf5d1dfdb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Direction188.png
+Dependencies: []

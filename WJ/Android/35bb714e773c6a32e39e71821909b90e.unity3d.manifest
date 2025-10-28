@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 752863999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8880f6b3a32f243068717546d444cc42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 974fe07e81fc9eda7451d456cf7e07f2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8880f6b3a32f243068717546d444cc42
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/FBX FIles/Nature/SM_bush_01.fbx
+Dependencies: []

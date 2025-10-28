@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1064990462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cde4ffbf1336c47c0c3016fac4dbd20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8cde4ffbf1336c47c0c3016fac4dbd20
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/AnimatorSet/ZuoQi/10010.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/68d60052a66d8c3ce0affdfd26ffca7f.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/f15c43723d7b58c26bbef400c6bf76ff.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/f55c20d4a33a872d469efadb920afc50.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/fccad1e890d3068f407de7d0fdd5637d.unity3d

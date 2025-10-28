@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 434125218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ab065ed76d2d9a6140028cc671fa6ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1ab065ed76d2d9a6140028cc671fa6ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_3/model/Materials/t_fx_daoguang_05.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e8ba8912bda02759ee9fee8c2e6ae29f.unity3d

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3180710203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd1971c069c441579070aaea87f69d31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fd1971c069c441579070aaea87f69d31
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_339.png
+Dependencies: []

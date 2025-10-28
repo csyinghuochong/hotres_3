@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2757348948
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b27803ea9f9379cb255d54e02feafa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: da51c371cb987de4c5a6564d4db74b89
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9b27803ea9f9379cb255d54e02feafa2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Animations/Cute Phoenix/Anim_Phoenix@Move.fbx
+Dependencies: []

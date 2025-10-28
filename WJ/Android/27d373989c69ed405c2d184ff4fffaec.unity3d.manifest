@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 313174173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dad34595e495be572a71ff682d4c8d30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dad34595e495be572a71ff682d4c8d30
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Zoo/Cute Zoo 2/Texture/T_BoarA.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3234693828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d985a67ba0292b6e2931dc361198143
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2d985a67ba0292b6e2931dc361198143
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/zhansha.mp3
+Dependencies: []

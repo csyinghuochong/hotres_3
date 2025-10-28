@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 356907489
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 040121c8c2f212a259b9a7d8f5eca559
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0e5d512d53c80c8fe7582c1b6ea86c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 040121c8c2f212a259b9a7d8f5eca559
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Toon_RTS/Elves/animation/Infantry/ELF_infantry_03_run.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ed25edb14faa9503a8aa7e2a9c71c8c3.unity3d

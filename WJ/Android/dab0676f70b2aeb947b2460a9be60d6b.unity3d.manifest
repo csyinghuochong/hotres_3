@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 290406682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 461d706aa5deda876d4a9d8445ed642a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 461d706aa5deda876d4a9d8445ed642a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/zhanshi_2/texture/zhanshi_xiashen.png
+Dependencies: []

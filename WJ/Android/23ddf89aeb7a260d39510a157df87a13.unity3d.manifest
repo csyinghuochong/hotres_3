@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2038908244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd0ee7c49cec9477ab15c08da57effce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fd0ee7c49cec9477ab15c08da57effce
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/UniqueProjectiles_Additive8x8.PNG
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3850215350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 508467348f20cc3f99bc4908c529a51b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda261e9bafb09aaebdc01905952a468
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 508467348f20cc3f99bc4908c529a51b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Tree/Model/GRASS_06.fbx
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/afb4c93e06d55436a23fa48bb25914ea.unity3d

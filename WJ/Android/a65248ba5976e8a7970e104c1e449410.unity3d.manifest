@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3114031835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ebcf6a54cbbc6d6c4991130cceff7e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 98d024a315194fe336ec00c25924c504
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ebcf6a54cbbc6d6c4991130cceff7e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Effect/SkillZhishi/Skill_Monster_Area.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c061d644a2da2c3008ab26259434a3fe.unity3d

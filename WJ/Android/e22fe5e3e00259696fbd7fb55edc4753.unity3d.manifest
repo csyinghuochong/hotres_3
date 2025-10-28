@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2239978433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 405027bd0e99d54240905c6c4ec5e311
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 405027bd0e99d54240905c6c4ec5e311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Plant_07.fbx
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1a2dadbeda5755b80ac3d417fd0cc5a0.unity3d

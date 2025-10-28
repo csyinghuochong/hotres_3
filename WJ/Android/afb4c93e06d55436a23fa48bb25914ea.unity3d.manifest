@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 471333955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2433620a3ae27807bf2dd571c3eaa4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b2433620a3ae27807bf2dd571c3eaa4d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Tree/Materials/grass_mat.005.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/4d606bfdae57644f05d29db6a85dfab8.unity3d

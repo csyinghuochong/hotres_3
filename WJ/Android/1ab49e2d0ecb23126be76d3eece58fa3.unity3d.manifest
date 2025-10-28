@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1495862094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec7845cca5f1da5b0dc91479478a7310
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c6e5923d772056ca1a0c70e98d527d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ec7845cca5f1da5b0dc91479478a7310
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/NPC_JiaYuanKuGong.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/8d4db133d755d781d3fcd34d12d3c1a3.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ed25edb14faa9503a8aa7e2a9c71c8c3.unity3d

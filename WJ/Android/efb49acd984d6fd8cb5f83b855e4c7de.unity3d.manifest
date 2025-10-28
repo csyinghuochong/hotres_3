@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3297987931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71bd1797ba5c46b9052cc8c664413c01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 71bd1797ba5c46b9052cc8c664413c01
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-Ground-Blast-Violet1-1.anim
+Dependencies: []

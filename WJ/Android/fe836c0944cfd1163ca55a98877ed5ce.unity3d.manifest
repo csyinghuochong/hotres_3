@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1033555277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 501543d52c2a873cff4bd324bb134c3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 501543d52c2a873cff4bd324bb134c3a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_shandian_00014_01_C_2.png
+Dependencies: []

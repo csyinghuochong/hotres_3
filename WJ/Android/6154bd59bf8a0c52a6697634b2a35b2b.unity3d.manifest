@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3838409829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc42b20c66ceb8f7f048f6cf8f2cd8b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d27d605e56b00c7d193d3604b99a7461
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dc42b20c66ceb8f7f048f6cf8f2cd8b4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/You Xi/Ye Wai Chang Jing/Fbx/yewai_shu_02.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0112ce73b2463c305a50fe4f896173be.unity3d

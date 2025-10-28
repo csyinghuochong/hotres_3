@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3201611789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb5ca191aae485f50dd50e9903bde2ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fb5ca191aae485f50dd50e9903bde2ee
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_Cabbage_01.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/2ea6d94226ec901203e395fbc0a10106.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/3d24c681c9c331a22069696bfc33246c.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a790c7f746c3201d76780cad25512774.unity3d

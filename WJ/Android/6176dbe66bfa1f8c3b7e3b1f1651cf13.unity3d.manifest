@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1429372826
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08a2370ed1f79fc611bdf0a32da933a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 08a2370ed1f79fc611bdf0a32da933a3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/ItemQuality_5.png
+Dependencies: []

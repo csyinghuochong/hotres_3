@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3065201781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f69bd455c4c4e3b4315fe3fc83dc9b55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f69bd455c4c4e3b4315fe3fc83dc9b55
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Terrain/Materials/1576-1.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/df9546c1adc951ee5b8a1ae3503c7755.unity3d

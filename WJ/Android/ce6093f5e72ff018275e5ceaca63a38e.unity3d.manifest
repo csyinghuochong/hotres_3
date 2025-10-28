@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1027041420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7349ca336b4da157b65e0bb3877bec09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 29d788e0160b819fcac46e4e2a649a47
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7349ca336b4da157b65e0bb3877bec09
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/FBX/Cute Butterfly.fbx
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 939374484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f05b25c3247386d1d86904b8b36c3be4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f05b25c3247386d1d86904b8b36c3be4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_RedBeet_01_AlbedoTransparency.png
+Dependencies: []

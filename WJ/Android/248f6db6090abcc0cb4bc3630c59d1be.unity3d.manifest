@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2820817937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9164647e6e348ef3031e9e876a2e1a3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9164647e6e348ef3031e9e876a2e1a3c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Glow_A/Glow_A.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c881b3d774ee77db6e5fce6555eac569.unity3d

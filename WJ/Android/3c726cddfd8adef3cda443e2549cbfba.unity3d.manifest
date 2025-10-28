@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2957582468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebb8383426003f83fb47040b7f32c4a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52d1cf33f0ddacda9698410fe4959a8b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ebb8383426003f83fb47040b7f32c4a9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Monsters Ultimate Pack 05 Cute Series/Soul Mage Cute Series/FBX/Soul Mage@Turn
+  Left.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ba8b284f0e24731bc618fa62bc46ad97.unity3d

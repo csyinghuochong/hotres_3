@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 831290078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b8eeb0afed1a3354ea6d27273c1404e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5b8eeb0afed1a3354ea6d27273c1404e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt2/Sword slash FX/Materials/Slash3cgBlue.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/8890909cffb73dc2ec4c965ed90a3840.unity3d

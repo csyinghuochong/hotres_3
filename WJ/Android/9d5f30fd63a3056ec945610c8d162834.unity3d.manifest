@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 826954721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da745faff914ee7651e551741f88a82b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: da745faff914ee7651e551741f88a82b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/NPC/Old/DDS/NPC_MAGE.png
+Dependencies: []

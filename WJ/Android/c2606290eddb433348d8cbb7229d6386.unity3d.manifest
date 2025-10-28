@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 993566528
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42d743758d0c3f01b8cb03980007b686
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 42d743758d0c3f01b8cb03980007b686
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/ZhiYe/fashi3/texture/fashi3_meimao.png
+Dependencies: []

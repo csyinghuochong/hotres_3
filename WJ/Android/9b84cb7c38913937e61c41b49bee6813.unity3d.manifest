@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1892904458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a914c301f481e26a548a585977e2e679
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a914c301f481e26a548a585977e2e679
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/energyring3teamcolor.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3830683271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a573018d56285939f89e9a8d52de3d90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a573018d56285939f89e9a8d52de3d90
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/met/Quzak_circle_002.png
+Dependencies: []

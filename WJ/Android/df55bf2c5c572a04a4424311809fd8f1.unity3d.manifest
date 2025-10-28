@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3561243697
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27895406a87dd4d39451565e6fac48cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 27895406a87dd4d39451565e6fac48cf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
+  Ice Vol.1/Models/Materials/dirt037.mat
+Dependencies: []

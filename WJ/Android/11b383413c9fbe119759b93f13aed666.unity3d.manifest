@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3084229312
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 417d2305fd78c0fdaf1fbc0047325ba6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 417d2305fd78c0fdaf1fbc0047325ba6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Ice/Materials/Mirka__Mirka_Base_Mat.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c45b6896451755d215e91a91288a8a22.unity3d

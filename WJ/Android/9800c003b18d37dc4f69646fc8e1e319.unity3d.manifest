@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2472136233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc9b17fa09bae27261c3e7396bc7cb8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cc9b17fa09bae27261c3e7396bc7cb8f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Materials/environment_common_men_001_02.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/3d4f31513afa626e0785912449828100.unity3d

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1119361573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a110142e439aec96dcf6ec6b6bd96f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05cc24d19dc4240fd268396c9e2f3d50
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5a110142e439aec96dcf6ec6b6bd96f0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/model/102410_xp_npc
+  #1871037.fbx
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/126d9544f6c79d04b4298da97bec0925.unity3d

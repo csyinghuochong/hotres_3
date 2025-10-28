@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 220521520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 949a3b40d1aaae3e8fe35f8aefcdc1e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 949a3b40d1aaae3e8fe35f8aefcdc1e5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/ZhiYe/fashi2/texture/fashi2_fashi2.png
+Dependencies: []

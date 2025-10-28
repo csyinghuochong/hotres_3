@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4284268766
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13e037d4a36a3b373d891aca25605cf4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 13e037d4a36a3b373d891aca25605cf4
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_01/Skill_Sword/Model/AnimationUse/BomElement.anim
+Dependencies: []

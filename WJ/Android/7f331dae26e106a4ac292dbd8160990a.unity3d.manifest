@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1680133039
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c0bd7e0563294e01c33e0b4eef85200
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6c0bd7e0563294e01c33e0b4eef85200
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/texiao/Materials/Circle_2.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/54bc2f9b012a29c430f2c31426d09898.unity3d

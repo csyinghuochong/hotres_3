@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3858230579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89fe723e1712d52294e899f636c50d28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 89fe723e1712d52294e899f636c50d28
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Materials/Misc/basicglow.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a887523e23eb13d5204e2997a9220969.unity3d

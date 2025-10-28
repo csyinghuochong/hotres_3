@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1216645999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8fec25bed590e3fa98c0c08975aa3f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c8fec25bed590e3fa98c0c08975aa3f4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/T4M/Tutorial/Materials/Sunny2 Skybox.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1fa2d4e0e6d9ff9efc5c512e7a172ee8.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/57a2010f1cdeaab0e43a9e6e93fa7ea5.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/73221d3c666fb0d38da875e300ae78d4.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a9b7e9baa52613ac7d90e0b9827d0d01.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/b15b0817a40c837b80a1ca7bfdc5d3d1.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/d180255b3c806dcb11976d628f964db5.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2157494889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef94ec8c3156fae4a88b23cf50a1cf7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ef94ec8c3156fae4a88b23cf50a1cf7b
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/EquipSuitPropertyConfigCategory.bytes
+Dependencies: []

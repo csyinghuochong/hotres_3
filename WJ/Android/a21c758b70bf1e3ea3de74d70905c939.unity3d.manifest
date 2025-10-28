@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4211496860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f94fde40a9f20009a4b9b59ae556671
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05cc24d19dc4240fd268396c9e2f3d50
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7f94fde40a9f20009a4b9b59ae556671
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Media/Character/Model/ju_du_zhu_001_ty.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c1e018ce3c70ca313f69480199ecba75.unity3d

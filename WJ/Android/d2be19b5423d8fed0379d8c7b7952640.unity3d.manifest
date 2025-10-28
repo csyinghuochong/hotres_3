@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1321536121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ebebc2e9b64be526a660238cd65a50c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 48f9e47804cc6149eb45c38c55466448
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0ebebc2e9b64be526a660238cd65a50c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillZhishi/SkillGameObj.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/52ad1618149a8b634511408564910199.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/79deb227f583ad08ecc8ff4ce4bd5e09.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/93f4121a684493d42bd8640278acf4fb.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/b2690de01aa46a5ec5e68a1d4357ae15.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c061d644a2da2c3008ab26259434a3fe.unity3d

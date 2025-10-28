@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3974773081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17f68be930d2b22bb9ec1d96b47f58f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 17f68be930d2b22bb9ec1d96b47f58f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/building_garden02.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c887be2ef0d8eaf041cf3bcebfe59adb.unity3d

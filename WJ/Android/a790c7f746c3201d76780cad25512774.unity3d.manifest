@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2593933087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8f35903e22363a69838d46f0d0b96ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b8f35903e22363a69838d46f0d0b96ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Cabbage_01_MetallicSmoothness.png
+Dependencies: []

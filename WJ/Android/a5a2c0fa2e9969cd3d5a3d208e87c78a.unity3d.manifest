@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4069175881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6974a372ce185cfcc10279cc5da72b10
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6974a372ce185cfcc10279cc5da72b10
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/zhaohuan.mp3
+Dependencies: []

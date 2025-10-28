@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2141045475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6077082cf49d239860e2ab35d65b14bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6077082cf49d239860e2ab35d65b14bb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 3/Textures/SharpStone.png
+Dependencies: []

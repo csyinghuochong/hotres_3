@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 558409029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e2063f94cac187d4aa2ed970c0dc2dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7e2063f94cac187d4aa2ed970c0dc2dc
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/chong.mp3
+Dependencies: []

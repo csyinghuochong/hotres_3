@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 4079495072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9971f98cb446c1f992a5fb23de0d55d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f24519efcfb5cf08044ba6dbb6df2b2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9971f98cb446c1f992a5fb23de0d55d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Effect/SkillZhishi/Yujing_Dir.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/40eb507ac1f03b3db96d488d9e2dd6f5.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/9d40a645afa8836cf68c34dfc2b5b5a9.unity3d

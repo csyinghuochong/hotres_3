@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3301006626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 709c31af3b0884ec45337b2aabd12f75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 709c31af3b0884ec45337b2aabd12f75
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/ItemModel/15510003.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/110d68940062e3b9a38150d419bd4414.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/3984b3c51182cc20149d0a3f7d22f84a.unity3d

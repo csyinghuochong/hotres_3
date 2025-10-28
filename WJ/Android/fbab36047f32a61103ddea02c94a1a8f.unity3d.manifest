@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 288960462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da6bf55cd9da4141429678d64d3203c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3a02ddc14d07c107ec909af2dc098af2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: da6bf55cd9da4141429678d64d3203c7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Unit/Player/Hero_2.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0458fc11ee74a17380284b0c46fbc14a.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/39aef86b44fa0bb6b9fe54c296b6a3e0.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/6d98b66c0849d225b4cd46a1a855481b.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7ca84aa87bf4f5ab6b8baea5940734e4.unity3d

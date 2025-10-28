@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3028516717
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1e3f55964de71847711aa6ea3caaa2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 23f18caaf2c491ae9db28b091670d088
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a1e3f55964de71847711aa6ea3caaa2c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_TerrainAutoUpgrade/layer_3ec942c0ca31c357.terrainlayer
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/11b3667a10fd8adf63706754e2a9e52b.unity3d

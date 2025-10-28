@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 463782113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e17620b2951f370e2558c762fb70881f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e17620b2951f370e2558c762fb70881f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_path_00227_0003_A.png
+Dependencies: []

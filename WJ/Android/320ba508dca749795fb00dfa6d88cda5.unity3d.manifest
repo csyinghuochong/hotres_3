@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3040050533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70399b1a7608ada2be692b30908a950d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 70399b1a7608ada2be692b30908a950d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_385.png
+Dependencies: []

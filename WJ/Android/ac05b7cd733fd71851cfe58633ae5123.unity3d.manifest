@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 795387226
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fcf365efafa4268759af07304185928
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 417bda0cb665afa0030c6121d7c8161b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2fcf365efafa4268759af07304185928
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c91e06ed9dbf4a83a555f3fa34018892, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundles/UI/Main/Common/UICommonTitleSet.prefab
+Dependencies: []

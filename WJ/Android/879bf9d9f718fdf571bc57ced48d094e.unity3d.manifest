@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2652460968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a382fa8d951b85aba2201466aaf437f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8a382fa8d951b85aba2201466aaf437f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy Heroes Pack 01/Dwarf Warrior/Textures/Dwarf Warrior-Yellow.tga
+Dependencies: []

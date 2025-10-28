@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2011024154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5039f26b4a5f91a7c8e98b7d4ae6e152
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5039f26b4a5f91a7c8e98b7d4ae6e152
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Materials/environment_common_zhangpeng_04_02.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/3df1c9d059e9b0d3d36fe3e3cb1715a2.unity3d

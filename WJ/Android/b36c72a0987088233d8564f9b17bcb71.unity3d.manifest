@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4133008870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 485b3f2edaffb745843f998c6dd59193
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 485b3f2edaffb745843f998c6dd59193
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/T4m/Old/Meshes/Materials/defaultMat.mat
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4079855550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0dc127a6223ad62dd579c4dce1165a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f0dc127a6223ad62dd579c4dce1165a7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
+  Ice Vol.1/Materials/M_ice_0007.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/fbee5cada41a8f196485148548534250.unity3d

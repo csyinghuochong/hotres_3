@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4237688440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf3db98e759ab6532eacfbbf815d22fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cf3db98e759ab6532eacfbbf815d22fb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/TerrainTexture/a1dun_caves_CaveWall_A_diff.png
+Dependencies: []

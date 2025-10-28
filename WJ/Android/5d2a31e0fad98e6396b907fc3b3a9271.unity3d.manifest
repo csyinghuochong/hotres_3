@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2767142114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cc52605e4edaeefcf02a42c7dd3055c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0e5d512d53c80c8fe7582c1b6ea86c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3cc52605e4edaeefcf02a42c7dd3055c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Pet/Animations_Cute_Animals/Squirrel/Anim_Squirrel_Die.fbx
+Dependencies: []

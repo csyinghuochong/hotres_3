@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1330121496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3d9c31a55d1abbee2d88a34d022e982
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a3d9c31a55d1abbee2d88a34d022e982
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Texture/ESTHER_GRASS_01.png
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1480970446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5362ac3485f25e80c4ba4087b0805c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c5362ac3485f25e80c4ba4087b0805c8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt2/Sword slash FX/Materials/SlashDistortion.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/33c9887865b906ef6194b94ff14ad8e4.unity3d

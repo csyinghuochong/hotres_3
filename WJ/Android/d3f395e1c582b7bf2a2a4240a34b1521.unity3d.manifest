@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3859071937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fa2eac44e7f4114d6658e7ca0d6621a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c3e863c48f2dc4e1c2cd9002f7db620
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0fa2eac44e7f4114d6658e7ca0d6621a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleFaShi/fentiModel/sd.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/294cbba965d5fff35c31e006bb01c715.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/36ab60de7e6f866c65e6f7ad6a2d5256.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/39aef86b44fa0bb6b9fe54c296b6a3e0.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/89c2da2edddd25963173346cd1796bc6.unity3d

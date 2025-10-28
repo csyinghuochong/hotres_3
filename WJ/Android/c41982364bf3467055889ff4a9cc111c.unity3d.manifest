@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4196591998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 609fbfcf14adf23acd2497597b9a9ff5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 609fbfcf14adf23acd2497597b9a9ff5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/texiao/Materials/Light_1.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/670e0b5fe641893c4278f9b75f96095f.unity3d

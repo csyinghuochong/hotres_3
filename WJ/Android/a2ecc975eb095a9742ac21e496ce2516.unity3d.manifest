@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4182011154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87bead7d6afa2e959f468b4b6250351b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 87bead7d6afa2e959f468b4b6250351b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/Materials/effect_wenli_178_img
+  1_1_256.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/46dcc787f2bdb543e97494fd2ce3a892.unity3d

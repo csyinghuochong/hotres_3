@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3383181820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a197b505c16793f484e3353f20d93dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7a197b505c16793f484e3353f20d93dd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/BearMinions/T_BearMinion_Body_Diffuse_Blue.tga
+Dependencies: []

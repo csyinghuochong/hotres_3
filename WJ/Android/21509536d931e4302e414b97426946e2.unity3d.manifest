@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4219096564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1f97bd9d387fb2c1711a13c95286ab6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda261e9bafb09aaebdc01905952a468
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b1f97bd9d387fb2c1711a13c95286ab6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_xuedimuxiang_003_b.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e134f8541d4d5657d500b843d8bebe37.unity3d

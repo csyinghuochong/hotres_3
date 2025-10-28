@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1477464494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb89fcfc1d630c1d91d2eec646c11151
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fb89fcfc1d630c1d91d2eec646c11151
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Trajectory_Electro.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2361865050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdbfd093d474e192c5a100b803316643
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cdbfd093d474e192c5a100b803316643
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Direction154.png
+Dependencies: []

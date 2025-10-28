@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3877806373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f450f882e7a4e7baefd1ac9d4c7c35c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f450f882e7a4e7baefd1ac9d4c7c35c7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Fire Dragon/Textures/FX-Sparks.tga
+Dependencies: []

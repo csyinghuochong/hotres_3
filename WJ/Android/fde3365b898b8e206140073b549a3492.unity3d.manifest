@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2990147519
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e3f6da708f9dd3d33015a8a943fbedb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4e3f6da708f9dd3d33015a8a943fbedb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Materials/environment_Building_qiaoliang_006_02.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/fac3e6dedf14f1f1f8e577393f9af0a2.unity3d

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1030293800
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8ef0415da305cae8907c4cd657f90e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05cc24d19dc4240fd268396c9e2f3d50
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a8ef0415da305cae8907c4cd657f90e4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/ZhangJie_1/shuguai/Boss_Act.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/f13acd80941c79b442968e92c94c1b71.unity3d

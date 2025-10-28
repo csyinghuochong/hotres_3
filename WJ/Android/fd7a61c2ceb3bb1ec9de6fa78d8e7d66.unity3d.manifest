@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 353539448
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57bbcea37139e603a4bb083a61e2017a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 57bbcea37139e603a4bb083a61e2017a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Materials/Gazer/T_Fire_Gazer_A_Lan.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/27986b207b7a9359b2a50226ae577967.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/79556c9dce2898219c5ad5680ccfa4bd.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7ef70646b2b8aef4b653811f8ed7361e.unity3d

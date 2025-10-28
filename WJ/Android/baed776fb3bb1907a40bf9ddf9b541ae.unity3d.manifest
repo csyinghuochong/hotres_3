@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1723991307
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efc7a67fcf354c830f6680bfe62fe761
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: efc7a67fcf354c830f6680bfe62fe761
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Model-E3D/E3D-Curve-Surround40.fbm/eye_lwy_t_ptc_20_single.png
+Dependencies: []

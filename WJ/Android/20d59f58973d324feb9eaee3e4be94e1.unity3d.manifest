@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1899502780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e17f45accad82873b9901dc55baff335
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e17f45accad82873b9901dc55baff335
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_xiaobugaolan_001_01.png
+Dependencies: []

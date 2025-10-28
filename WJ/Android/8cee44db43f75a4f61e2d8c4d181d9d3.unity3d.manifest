@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1913464676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0621f1fd11297b485d2f475e2f1bc260
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0621f1fd11297b485d2f475e2f1bc260
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Materials/Buildings.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/6ce37d47c1dc107a897d84a2f34297f3.unity3d

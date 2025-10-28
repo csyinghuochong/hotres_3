@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3817463818
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 342d65776f1b163844006fb620e63296
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 342d65776f1b163844006fb620e63296
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleFaShi/fentiModel/texture/Costume_01_00.png
+Dependencies: []

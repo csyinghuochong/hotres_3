@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 5030444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd183074790fca3cb1f7005564fec3e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bd183074790fca3cb1f7005564fec3e2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Shaders/HolyShield.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d

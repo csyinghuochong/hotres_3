@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3491455242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80eee7b68dd10467e184dfc801037d9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 80eee7b68dd10467e184dfc801037d9b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Button/Btn_61.png
+Dependencies: []

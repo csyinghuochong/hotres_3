@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1703006662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04625b43fac8c7bf0b9a4e19496c488d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 04625b43fac8c7bf0b9a4e19496c488d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIModule/Login/Login_7.png
+Dependencies: []

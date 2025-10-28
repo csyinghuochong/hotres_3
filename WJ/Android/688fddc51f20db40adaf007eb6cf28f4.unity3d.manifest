@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1074192448
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3626949e9782fe5b4b5859fbafbae62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c3626949e9782fe5b4b5859fbafbae62
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/You Xi/Ye Wai Chang Jing/Fbx/dixing01.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/12274501babbe60ead4a4077a8875528.unity3d

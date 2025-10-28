@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2084816364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 841f2bf125d7af41e3bcf5c4d0b92712
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 841f2bf125d7af41e3bcf5c4d0b92712
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/ThirdRes/GUI Pro Kit Fantasy RPG/Particles/Materials/fx_glow3.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7c1daa07efbf1f3cdd00517afae5afe1.unity3d

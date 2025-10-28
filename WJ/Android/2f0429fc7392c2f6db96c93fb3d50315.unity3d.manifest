@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3072047018
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ffbfba87bc371bcb90b16fa94e768e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6b3de2550ba45d59b01c9597ad04d39d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2ffbfba87bc371bcb90b16fa94e768e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_6.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0217cd4ebb1b52dabec9bb9693cd8c60.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/20877f8145feaecc2f04b376ad5dba27.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/2244c733d3d6128c0626f05feea04fdb.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5203f2fc1fcb529ab80fcce524c07a69.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7ffddaefc54c6216081ffb24bf921038.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/91649f40369c99bb6fac701f46b1afaa.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/9237fa3d98a44b7058e77f6ed7162e88.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/d1049d9c711725d5c090a4de304fdab5.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ed8a5011114f588e2c87e4b410b32b97.unity3d

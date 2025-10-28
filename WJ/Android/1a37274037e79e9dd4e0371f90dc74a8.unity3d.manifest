@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1587650974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad7e0128d37e0cbf68531a7e05bbb8a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ad7e0128d37e0cbf68531a7e05bbb8a7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/met/Quzak_Smok_007.png
+Dependencies: []
