@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3084156163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12505a276739afb990864b66cedc8d4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 12505a276739afb990864b66cedc8d4c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_42.png
+Dependencies: []
