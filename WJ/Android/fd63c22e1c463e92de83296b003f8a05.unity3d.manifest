@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2421410002
+CRC: 1489466372
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 98d8f08ee38c2fdec8750dfedcd40590
+    Hash: 0ba41adeb3ff8a7540fbec3fc53f7db8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1a5763829c62a7c4f226272b43506c76
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 98d8f08ee38c2fdec8750dfedcd40590
+    Hash: 0ba41adeb3ff8a7540fbec3fc53f7db8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -78,7 +78,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Fashion/UIFashionShow.prefab
 Dependencies:
-- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/027d95e058523b6cb4e667f9ff19b505.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/113f99598e418e3618f7c0d62066fb82.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/160a3c949daff9644bb4cce6192b79a6.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/231b7726f4170e31764ad2f482ce25f1.unity3d
