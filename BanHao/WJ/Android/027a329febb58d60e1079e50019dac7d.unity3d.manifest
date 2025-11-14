@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1083804820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 377df9fcd7a57a69849de82a71bf50c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 377df9fcd7a57a69849de82a71bf50c1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Pet/Cute Pet/Materials/Horse_A.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/79556c9dce2898219c5ad5680ccfa4bd.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7ef70646b2b8aef4b653811f8ed7361e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ab403c1a8b4d74bc46c1494da29f0c87.unity3d

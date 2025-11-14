@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 3073771277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ae5c0189361edeba7c90f9fab4734d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0780467d966fc64e3bdd074fc57bab2f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9ae5c0189361edeba7c90f9fab4734d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Bundles/UI/Common/UI_CommonHint_2.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/442f9224ada5d96d6abe2c927f992367.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/591f54e8ea8d58a8230f42c1f99b2722.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/6616b626c03439ec238ee8180b055303.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/6a0d7ca8b85a44f67b9e145654bdb29f.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c164012b8b9cb72a1b2eaf68403678c4.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c99f6e18d2ad87ae1cf62a6add9bad61.unity3d

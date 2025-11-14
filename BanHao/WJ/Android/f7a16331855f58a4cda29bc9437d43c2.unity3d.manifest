@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 969685171
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b37e25d7e3ebabb6470ea32f3bc6a52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7b37e25d7e3ebabb6470ea32f3bc6a52
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_313_1.png
+Dependencies: []

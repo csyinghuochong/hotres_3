@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1404904389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9162cdab094494a238610c75342996f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22c7f70bd3e2de7057decfa752510fd2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9162cdab094494a238610c75342996f3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/ScenceEffect/Eff_JiaYuan_Active.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1328d534980063c35eca2a3d6b059b4b.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/e1df16908fb69b637c7bdbab967a4cc4.unity3d

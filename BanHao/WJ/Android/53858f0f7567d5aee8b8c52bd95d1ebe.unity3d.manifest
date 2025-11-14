@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3575582828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbffdf7926f6aad40e57c9d538b5112d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bbffdf7926f6aad40e57c9d538b5112d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/Material/IceSmoke02.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/428fdfb17c3ef935aea197450edfff16.unity3d

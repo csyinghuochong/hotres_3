@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3992939275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7f119c0dd22be034e8617836e2c23a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c7f119c0dd22be034e8617836e2c23a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Stretch_Hit01.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/62a7101a6fef2bba86a4e95bbf8e5cda.unity3d

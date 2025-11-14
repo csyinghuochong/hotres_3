@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1231551723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7661d4a4723b4c84bc7193f98d8f94cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7661d4a4723b4c84bc7193f98d8f94cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelCoconut.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/30fc131b78ab6f25d83f7555b468d945.unity3d

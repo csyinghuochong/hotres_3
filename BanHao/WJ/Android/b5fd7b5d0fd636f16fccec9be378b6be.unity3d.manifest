@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 274941265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afad3ee0e6ff40ae0a2a61416b8bfbed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: afad3ee0e6ff40ae0a2a61416b8bfbed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/building_spell_lv5.FBX
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/9c25ba18a4946959b2d7ebefacd8e445.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/e606328d5600551b76d1d1df5faa4f1f.unity3d

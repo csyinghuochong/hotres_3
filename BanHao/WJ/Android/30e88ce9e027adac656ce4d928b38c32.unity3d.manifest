@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1538369788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0980c833a0c564b9e73c529864ca3228
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0980c833a0c564b9e73c529864ca3228
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Shader50-1.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/4861464d8739cba366e3306ea3b2be55.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ba9999442b5114b6c8f2d41d58ba72e8.unity3d

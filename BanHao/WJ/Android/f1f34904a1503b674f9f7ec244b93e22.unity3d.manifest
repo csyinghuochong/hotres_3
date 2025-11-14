@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 287716074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec57f2264aa0c000592499602d6a8025
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ec57f2264aa0c000592499602d6a8025
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Twinkle.PNG
+Dependencies: []

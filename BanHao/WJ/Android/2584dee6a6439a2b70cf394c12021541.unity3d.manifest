@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4132524487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de1117ec3f432c4878b2cc89e0cfed79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: de1117ec3f432c4878b2cc89e0cfed79
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Twirl.PNG
+Dependencies: []

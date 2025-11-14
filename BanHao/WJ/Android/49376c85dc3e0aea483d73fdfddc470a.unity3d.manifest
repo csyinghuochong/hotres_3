@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 279023208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b152c3293b16ac6876a009c13a7c79e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5b152c3293b16ac6876a009c13a7c79e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/ZhiYe/fashi3/texture2/fashi3_hari.png
+Dependencies: []

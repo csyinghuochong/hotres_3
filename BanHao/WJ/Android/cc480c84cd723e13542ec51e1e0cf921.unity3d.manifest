@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4037732676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cad00f20373bd50d887efb7f73f7f43e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 48f9e47804cc6149eb45c38c55466448
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cad00f20373bd50d887efb7f73f7f43e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Tree_A14.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/75b2026996176eabc34d30fa6dc78dae.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/92f5f1cd2e0451c1dd2d9d14e4d37b83.unity3d

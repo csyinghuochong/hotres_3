@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3266103062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c15add8c8743a5d8cee3d6848eb4bbc9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9037f35933609cb95fdb8c254028ac19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c15add8c8743a5d8cee3d6848eb4bbc9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8373842c4e11e494aa5d1a146b6ffc22, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Plants_Tree_AB5.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/38555b23eaad0ef2f01a8856ab4fbe87.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/391e064692678b9772821eb893752a20.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/591fa3a092b4b848fb39e3e02d66323e.unity3d

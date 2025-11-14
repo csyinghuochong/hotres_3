@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1011779460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4be6858c0e66f56387252c33d3f44cda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4be6858c0e66f56387252c33d3f44cda
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/smokyRingAdd.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/d4f08e2deeb91b35fe828293b1949502.unity3d

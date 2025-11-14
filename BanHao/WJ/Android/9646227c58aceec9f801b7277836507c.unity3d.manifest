@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1107343726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0688da9e5d2c66706deb1df97990609
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda261e9bafb09aaebdc01905952a468
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a0688da9e5d2c66706deb1df97990609
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/environment_common_muza_002_a.FBX
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3a602f6d0c7c892b3f697671984408b9.unity3d

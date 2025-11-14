@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1526376466
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bf00cd1a3e036b14e60656258fdf5ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2bf00cd1a3e036b14e60656258fdf5ba
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/ChapterSectionConfigCategory.bytes
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 218851450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52e33b3f01e57397e5eac3e8fd5de1e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 52e33b3f01e57397e5eac3e8fd5de1e0
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/objectB/scene/Animation/skybox_stsm_yun_002.anim
+Dependencies: []

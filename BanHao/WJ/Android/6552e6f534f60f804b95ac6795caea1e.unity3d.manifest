@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 735329223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6aa63d47aa28a64bf12cbe6b046ceebd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda261e9bafb09aaebdc01905952a468
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6aa63d47aa28a64bf12cbe6b046ceebd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/environment_common_fenbao_001_a.FBX
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/65c0b1df1d50b99ad262b194bd470524.unity3d

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1508580781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eafead581782c6fe33c68d4fd8eb0b3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eafead581782c6fe33c68d4fd8eb0b3a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/GameUI/Old/Image/UI_Image_114.png
+Dependencies: []

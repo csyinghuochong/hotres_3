@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3144622131
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad8325dae498f1ec501d3b1bffe21e53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ad8325dae498f1ec501d3b1bffe21e53
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_wuti_yanshi_001_A.tga
+Dependencies: []

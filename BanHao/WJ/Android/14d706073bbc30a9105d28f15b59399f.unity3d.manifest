@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 428489831
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f616d9b823b4223d45fc09c5a6f9cec1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f616d9b823b4223d45fc09c5a6f9cec1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Materials/Ground_decals.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/898f10ace367bcdd803842180f94a146.unity3d

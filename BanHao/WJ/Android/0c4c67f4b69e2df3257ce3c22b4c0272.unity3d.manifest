@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3593353576
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 759166ae42a9990b0cda796cf474933a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 759166ae42a9990b0cda796cf474933a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_01/Skill_Sword/Model/Materials/No
+  Name.mat
+Dependencies: []

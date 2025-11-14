@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 440653765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5962fbe8ed9ec45d004cf1db308ee0d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c835b41140162c0dc3bb97ac6ba956c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5962fbe8ed9ec45d004cf1db308ee0d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/MonstersFlower/Prefab/MonsterflowerC.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ab8e0eaeb9c50b6b12c8579aabfe839e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/d06c50f2b0ae19ce177996a4fb001345.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/d6b07d98f082fae906df88c89bb8f004.unity3d

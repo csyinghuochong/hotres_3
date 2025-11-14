@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2606134203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 106f0b2ee04bb6c96ca6f2b1ad4e12a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 106f0b2ee04bb6c96ca6f2b1ad4e12a2
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/dao.mp3
+Dependencies: []

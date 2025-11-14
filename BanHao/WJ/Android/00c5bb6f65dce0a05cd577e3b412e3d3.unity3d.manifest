@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2198340236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5abc94a673b529b4a7f37ead27d49241
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5abc94a673b529b4a7f37ead27d49241
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Materials/Slash.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/17c4492a8422916b14af4d5bf4b459cb.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c051375320eea5364471c5c9b8713c51.unity3d

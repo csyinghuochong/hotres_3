@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2836073568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c9416a2d1ed933f60d9fb60c5229740
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3c9416a2d1ed933f60d9fb60c5229740
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/ice_Floor.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/4aefbf187258b87a9a507a7b91d790a9.unity3d

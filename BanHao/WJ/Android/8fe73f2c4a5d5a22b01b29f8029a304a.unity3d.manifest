@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 146114724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63d07d953714850af04821931e1a8c19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 63d07d953714850af04821931e1a8c19
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/VFX_Klaus/Materials/Mat_fx_elements_set_01_highlight_inner.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c5a17a3dd99da15ccfd7fbd16cab01f6.unity3d

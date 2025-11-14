@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3602935247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e2a97e6a7748ae8fb93d91a74034043
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e78b1c67ee368eeba1a9310297fb582
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6e2a97e6a7748ae8fb93d91a74034043
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Model-E3D/E3D-Sharpangle8.FBX
+Dependencies: []

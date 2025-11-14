@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3095364125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b324fee526eb141a5ce0db9b74608f2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 689576427796e20cfda183d53175be4f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b324fee526eb141a5ce0db9b74608f2b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 338e9578d1797374b858ead231938d29, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Pet_1.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/e59ed6d8ecab85c56bc9ba72443e2d24.unity3d

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3661061569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ee447b77e39818c1a8446c34e9d0dff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ee447b77e39818c1a8446c34e9d0dff
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/OldRes/OldNpc/AnimatorSet/Npc_LaoTou.controller
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/dbe0b0701f1c38254ca5e655453d827f.unity3d

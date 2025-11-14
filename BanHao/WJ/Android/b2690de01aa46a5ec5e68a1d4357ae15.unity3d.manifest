@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 363566559
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9af81ade4002c75564476a8bab19557
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c9af81ade4002c75564476a8bab19557
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillZhiShi/Effect/Textures/item/Materials/yujing120du.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/650385bbe69f4c260bd76b54674cddc4.unity3d

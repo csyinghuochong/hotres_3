@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2482800973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1649f0aa9233a3f62ea02316f96fb6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a1649f0aa9233a3f62ea02316f96fb6c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_468.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 435918392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e75b7921df2259bbfa2da37fe6c26093
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e75b7921df2259bbfa2da37fe6c26093
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Materials/PC/BearMinions/M_BearMinion_Body_Purple.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/930a71f0081d1feea0e76eb191c45298.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/9b76daa00761993840697d8819ad84dd.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/fbbc2ebdfd853f9e9f7fc3cf86d44331.unity3d

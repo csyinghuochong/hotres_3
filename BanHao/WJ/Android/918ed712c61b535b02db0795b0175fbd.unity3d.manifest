@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3629181581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 709bfb2b3a5c99a95429deeba92bb1d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 709bfb2b3a5c99a95429deeba92bb1d7
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/UI/GetTask.mp3
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 233452880
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c524500283ec2d0329a03b9fa10277c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6c524500283ec2d0329a03b9fa10277c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Coconut.jpg
+Dependencies: []

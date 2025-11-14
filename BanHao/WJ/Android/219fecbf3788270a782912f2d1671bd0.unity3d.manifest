@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2769471027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1291337af32c26fc19854dddd8873380
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1291337af32c26fc19854dddd8873380
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EScene/XWX-Effect-Dev/Noise-Distort/Noise-Distort00005.png
+Dependencies: []

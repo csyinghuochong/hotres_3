@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3141930223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aacde40cbca4e856dbcabff0398faf93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aacde40cbca4e856dbcabff0398faf93
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-020.controller
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/56441582d0818d877a63d0e79ac31730.unity3d

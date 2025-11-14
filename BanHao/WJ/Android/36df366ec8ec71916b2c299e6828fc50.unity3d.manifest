@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1850222529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3257c5c05ff8c043fa4e909e8728083
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4b57b1a56d6b76d200651994ae0863
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e3257c5c05ff8c043fa4e909e8728083
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/50002Settings.lighting
+Dependencies: []

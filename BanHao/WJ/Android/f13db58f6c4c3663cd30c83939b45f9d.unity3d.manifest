@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2401518514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3d5105e8c05a0f7552c3c0dae8499b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e3d5105e8c05a0f7552c3c0dae8499b8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/Materials/blastmarkwide1.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/da6ef65c606c68ca506b4e389490f9f6.unity3d

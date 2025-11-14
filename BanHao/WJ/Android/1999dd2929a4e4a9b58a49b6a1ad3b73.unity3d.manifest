@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3234941095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7aa3d865e641e7e1d04939f3ab3ca16b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7aa3d865e641e7e1d04939f3ab3ca16b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Flame_ABScroll_Mobile.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/104aec7457df56017dbeb96937aa595e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/613311d53ab353c42b0d25e3b695cd1e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/9aa60b4e4b29a3a4e97d52a68f5fa8f7.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a5136d288de244948ea0a4bf8f918be4.unity3d

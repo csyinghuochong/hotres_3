@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 91813068
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 016880d3497f1027097c8307b62c9c78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 016880d3497f1027097c8307b62c9c78
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/JiaYuanPastureConfigCategory.bytes
+Dependencies: []

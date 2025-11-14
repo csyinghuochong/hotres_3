@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2945092313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5deaff941b9037e3028e77de951690a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5deaff941b9037e3028e77de951690a9
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Hell Creeper/Controllers/Hell Creeper
+  Controller.controller
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/0d70bd8159b9395eafecc9fee907f204.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/110149f302a6eeec31d051559735f2ff.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3c3bc70f429edc984890e93caba8ad20.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/44b27ac855021d5f9268f3cffb314297.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/4cbbedeac96d4611124030e7b1f8dc00.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/5deb653aa19ca927d09494eb54fc8369.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/83fcb3975f1ed128362f74a4ea8956e5.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/b3fb09d26856ea528699e14efa18d2d6.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/b52a668b7ff297a08da3013f9f2d590f.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/be72e88b9e8d600ebbd54ba5de6abf2d.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c61ab195d18e722ad5b93ded3a153307.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/cb0a7d90e7558e811c17b6f82c7de193.unity3d

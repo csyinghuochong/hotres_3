@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2922969298
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5140671e5517c4cac486ad48d4d3e709
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d51cbaa249c2deb056f15533c97ca7bf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5140671e5517c4cac486ad48d4d3e709
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Model-E3D/E3D-Disk30.FBX
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ac93674edc2132333d2771b87943c7f7.unity3d

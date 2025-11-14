@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3305016160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62c4d359e61b6f6f77905b61ed45ac1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a8b88e9113e8aba819769b30ee467e65
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 62c4d359e61b6f6f77905b61ed45ac1d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Prefate/Campfire.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/2c1a851edfa0b07e4d7713097d42596e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ce2cbe40b5740908c955178ab30d7662.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/dd00c2aa48f2bd1b0ab2eb99d27a78fc.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/e082c4469218e1d7c850eba7ec8a3b80.unity3d

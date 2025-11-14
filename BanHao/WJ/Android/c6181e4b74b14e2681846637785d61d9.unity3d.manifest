@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3414998810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28116382797c8423d5daba1ebd4042ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767148d2cba1a92a15442f2b767884c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 28116382797c8423d5daba1ebd4042ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/Fashion/zhanshi_3_pifeng.prefab
+Dependencies: []

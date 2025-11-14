@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 53049752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 501b5787ca067ac497ffd3eaa9386dd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 501b5787ca067ac497ffd3eaa9386dd0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_metalbars_MaskMap.png
+Dependencies: []

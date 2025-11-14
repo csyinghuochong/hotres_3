@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 476235284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ff7171edb901a8386d4542acdbecefa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cce081c9a91ac321d385fd7d62c9aef6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5ff7171edb901a8386d4542acdbecefa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Pet/1009301.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1c558245fc215f1bf6b3efe1052a95c2.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/33bf2a1214a550f168ee3075fb96ee4b.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/f55f9c1d9f6fb2659c1cac299d6ed3f5.unity3d

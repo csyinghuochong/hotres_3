@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 638412127
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0d04d83194fc46a3d149e0d1bb81be9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 630d4c50d24462f84c5787bdaa4004cb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a0d04d83194fc46a3d149e0d1bb81be9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillHitEffect/Eff_Hit_Fire_3.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/265cb03f49b683679c4b99bb88265c3e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/2d3e44ece816e0888fdc740873d396f9.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/44029077a4ee74ce2227a43f92cfb387.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/559377e064cbf7db78e478d4caa611b6.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/abbf39f54fc6126b705c6c246520054b.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ddd31433d506cd0c8bca29ef7e0145c7.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/de3feabe1abb9e70ef2fa383e42e6848.unity3d

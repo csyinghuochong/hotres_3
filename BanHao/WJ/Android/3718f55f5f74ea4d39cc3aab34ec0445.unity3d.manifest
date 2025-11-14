@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1768788129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 748c5ae03f354aa567900dbe141b7db0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 748c5ae03f354aa567900dbe141b7db0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TX_lizi_00125_3.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/88ab05f6ee59afebbc2fc27dd9e2cfe6.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/f8b6d80e1234d598cc261ccdf21596e7.unity3d

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1694639925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a16db9d8e567131c72130e618a16ed3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a16db9d8e567131c72130e618a16ed3b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/Cactus/Materials/Cactus/Cactus1.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/79556c9dce2898219c5ad5680ccfa4bd.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7ef70646b2b8aef4b653811f8ed7361e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/80282958770d9da0630bef55c19f85b1.unity3d

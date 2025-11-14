@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2424337331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30f26a24b5c3973b6492ce6333305a4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 30f26a24b5c3973b6492ce6333305a4a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/QuestionBankConfigCategory.bytes
+Dependencies: []

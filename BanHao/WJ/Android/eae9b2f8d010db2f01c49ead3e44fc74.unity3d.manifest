@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1729403569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6712a1fed79b2a0abbdc7160c1fe447
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e6712a1fed79b2a0abbdc7160c1fe447
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/You Xi/Ye Wai Chang Jing/Material/yewai_zhiwu.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/0112ce73b2463c305a50fe4f896173be.unity3d

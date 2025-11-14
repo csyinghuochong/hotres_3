@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 205640062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eae90a1cfd4971ec770b2d9a30afb23c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9838d6d81319a57e8e1fe23d674a4563
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eae90a1cfd4971ec770b2d9a30afb23c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Buff_BingJianSu_1.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/9c407be29bfd9eac05ae4c82d6c78370.unity3d

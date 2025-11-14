@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1442924085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d7aa7eadd32f06aca334d0851490837
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 39211930310317a7ac09e05b862e3a8a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2d7aa7eadd32f06aca334d0851490837
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_RangeChiXu_1a.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/2244c733d3d6128c0626f05feea04fdb.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7154056e24dac8a9599f2f415fe8db3f.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7c28002a693fa8dc2b3a95d8fe82eccd.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ce3027bff8b96dd576ecd9d1a3c1fb0f.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/cff2c066a6d92493318ea25303dc9302.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/e64813dca5e4f84b68c6220fafdd1848.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ea1a030404b2d9a2802aaf925731c029.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/f95e0b86dcc8be0ec43acecea1ff1af6.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/fadc470def3fe1acbdf553ee7bcc7955.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/fd38cbd3d395fba3250c2ffeeece0d2f.unity3d

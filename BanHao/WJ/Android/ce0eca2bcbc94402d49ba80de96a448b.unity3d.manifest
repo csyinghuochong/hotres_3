@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4211767414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7745e65e2ed3a3fe312b6dce91f814a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7745e65e2ed3a3fe312b6dce91f814a5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelBonfire.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/0f0e1f8ca0eacde7d905ed5e782eca3c.unity3d

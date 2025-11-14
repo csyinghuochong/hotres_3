@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 102524885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c007f1dec56a337d214a626cd9aac699
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c007f1dec56a337d214a626cd9aac699
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelFenceCurve.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/4118afb0beafc6361fa84c529f09aee8.unity3d

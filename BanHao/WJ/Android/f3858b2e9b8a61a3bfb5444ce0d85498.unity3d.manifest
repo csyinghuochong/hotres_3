@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3380989505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1a021efa942ca160aa4a5521e69ff6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d1a021efa942ca160aa4a5521e69ff6e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Material/Eff_Skill_FireWall_02.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/6d0e74c868215afe5aefe5453ef33162.unity3d

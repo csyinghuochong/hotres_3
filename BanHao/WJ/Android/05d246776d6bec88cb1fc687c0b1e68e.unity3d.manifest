@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 178635612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ccdbac55ed217e190d762dd0b6f22a2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ccdbac55ed217e190d762dd0b6f22a2f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_shitai_005_05.png
+Dependencies: []

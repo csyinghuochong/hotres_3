@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4071460162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a936b36f6adaccf08d3396d981027f0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d51cbaa249c2deb056f15533c97ca7bf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a936b36f6adaccf08d3396d981027f0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/environment_Building_yingdi_hantianta_002_c.FBX
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/4bdaf503589476c7d67d115f32681192.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/855d87370b59514c07789bac889f7c1b.unity3d

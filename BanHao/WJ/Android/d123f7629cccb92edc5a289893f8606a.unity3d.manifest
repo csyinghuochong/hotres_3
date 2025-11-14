@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1118354508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad92f6ec5343aa27b20ca245eb86deb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ad92f6ec5343aa27b20ca245eb86deb0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelFlower_white.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/aa4a69de4aab440de8a8beb360830f40.unity3d

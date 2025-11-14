@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 757761116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34edb07e0975cfbce8e6acc3491c8032
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5d1d0993daa8a4f673b21ff8e7569e72
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 34edb07e0975cfbce8e6acc3491c8032
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/20001005.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/563e0d46516e41cb434aae23d301046b.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/9e06b13554ed66b7bf41a5c0560cec64.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/d0f84d128600f1ff140375e6b5907323.unity3d

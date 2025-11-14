@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1063623286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b515cafb8887573a04a751194981d0aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b515cafb8887573a04a751194981d0aa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/ScenceModel/Hyper Casual Chests/Texture/Chest Color Palette.png
+Dependencies: []

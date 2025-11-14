@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2716647550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a5936ba382a64766ca410fcbf49e6bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4a5936ba382a64766ca410fcbf49e6bd
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/TakeCardRewardConfigCategory.bytes
+Dependencies: []

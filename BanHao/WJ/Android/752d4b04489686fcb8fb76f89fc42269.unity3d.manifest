@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1171627672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bccfed3e4eac8f986c16119fcbbbf96a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2731b94655a5906fcacc58caae829596
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bccfed3e4eac8f986c16119fcbbbf96a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Rock1.fbx
+Dependencies: []

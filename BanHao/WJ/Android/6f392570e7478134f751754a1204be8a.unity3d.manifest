@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1634631431
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a27a61c54dba6bad38124f78e8f0c0f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 045213c52eecc7aeba131c62b418c535
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a27a61c54dba6bad38124f78e8f0c0f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/fashi_2/fashi2_skin.FBX
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1675386214ff23baf7f3a5fd2abe267f.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/192e7cbb57f058b607506761e124a4e8.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/34cd451e4ede8a608c386317033033db.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/8b9df8df3a3058aea7f4c1d23e8ed3f5.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/9dc02150c22daf4d87b5daacecece301.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/aabdfe8bb45d041db2afb8f49a1fb3de.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ac0c15f66a6c744c2e9bcbfcfd9cda37.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/eccd7bbb39a80e52584b9ebb15e1faae.unity3d

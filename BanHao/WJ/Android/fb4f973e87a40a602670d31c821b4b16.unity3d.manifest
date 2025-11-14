@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3880424076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c8658f7046e7b7fecb44cf4fdce641b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1c8658f7046e7b7fecb44cf4fdce641b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_Carrot_01.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/2764e91259a464154f827068b097395c.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3c6ec48c7e75737dc741b068e8bfbba5.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/914693f3f65815846c55b66758fc6837.unity3d

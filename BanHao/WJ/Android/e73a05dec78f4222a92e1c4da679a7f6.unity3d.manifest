@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2492915867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f0c5dfa43760f6d9f27720eca5a6a05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1f0c5dfa43760f6d9f27720eca5a6a05
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Shine/Shine.png
+Dependencies: []

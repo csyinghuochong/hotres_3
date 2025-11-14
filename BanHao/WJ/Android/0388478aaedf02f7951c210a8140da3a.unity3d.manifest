@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2037451268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf665d0c9e1537e8e66d70452eb7ad97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cf665d0c9e1537e8e66d70452eb7ad97
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Radish_01_AlbedoTransparency.png
+Dependencies: []

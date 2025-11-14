@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4110394909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cd081ca70a9597b6c734b7454b3517b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b2e31778654e1294187ab28b79e19c8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0cd081ca70a9597b6c734b7454b3517b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteCharacter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteGlyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/Res/UI/Emoji/emoji.asset
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/d1676ceb7c901cd4b6977275cd1fc923.unity3d

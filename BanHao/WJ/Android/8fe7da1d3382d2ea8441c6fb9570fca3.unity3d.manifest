@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2775521998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56a2a28c5849d9c61e54396aa5baea22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 88f4053155d2c8e8bdeb16c00867b658
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 56a2a28c5849d9c61e54396aa5baea22
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Materials/Tx_Barrel.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1ffb89488693a90d69e3b63abffa1ea4.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/bd0be3b4f82a53e2c28c112f0a8f67ad.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1235661151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e41e2c8a0d010847af0e564d3c1e030a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e41e2c8a0d010847af0e564d3c1e030a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Noise/noise_03.png
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1365260478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b8272f27587dafa3b4700f078653d12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05cc24d19dc4240fd268396c9e2f3d50
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4b8272f27587dafa3b4700f078653d12
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterModel/Monster/M20006/M20006.FBX
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/09e13f29d40e9ae4ba081d8fa2618117.unity3d

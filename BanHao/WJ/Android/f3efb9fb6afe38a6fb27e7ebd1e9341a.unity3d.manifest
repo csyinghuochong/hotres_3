@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 442918505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 214d583b3f59ed41f81c3dbabe2acded
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 045213c52eecc7aeba131c62b418c535
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 214d583b3f59ed41f81c3dbabe2acded
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/Fashion/zhanshi_2_lian.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7c69bba8867ba20c36b91ccce16eb0c5.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a9a52f5abdd2908e33149b9c8c010287.unity3d

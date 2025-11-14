@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1636643009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a722d2f8a386f2116a9bbf5f5b12b8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7a722d2f8a386f2116a9bbf5f5b12b8e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_194.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1568391202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d031a6a5ba7c09dfb85b2635608eb850
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d031a6a5ba7c09dfb85b2635608eb850
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Direction/E3D-Direction354-bh69.png
+Dependencies: []

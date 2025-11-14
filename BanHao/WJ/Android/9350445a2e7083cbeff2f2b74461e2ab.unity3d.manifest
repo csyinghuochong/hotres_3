@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 80100264
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 123ac39cce8c7ff6744b633a00c6ae1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 123ac39cce8c7ff6744b633a00c6ae1d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Ice/Texture/SPIDER_ICE.png
+Dependencies: []

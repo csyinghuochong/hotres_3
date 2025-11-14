@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1967243963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0bd060b346e0e3cc0a3986dabc990f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e0bd060b346e0e3cc0a3986dabc990f9
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/SkillEditor/E3D-Skill-Slow-Vertical-Up.controller
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/e6ed0fa7ed537af9117c743fbf66f626.unity3d

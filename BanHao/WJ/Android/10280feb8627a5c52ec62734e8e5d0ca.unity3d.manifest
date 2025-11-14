@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1902234941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8c267a2f5edd0d15360e30c296685e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a8c267a2f5edd0d15360e30c296685e5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/Penguins/Materials/penguin1.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/79556c9dce2898219c5ad5680ccfa4bd.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7ef70646b2b8aef4b653811f8ed7361e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/cfcaba21279d070d75475913268d6dec.unity3d

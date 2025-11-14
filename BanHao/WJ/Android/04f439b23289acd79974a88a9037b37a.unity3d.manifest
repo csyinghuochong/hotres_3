@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2492218788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 554556d0d63230d5ee8c643fd279c754
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 554556d0d63230d5ee8c643fd279c754
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/StylizedProjectilePack1/materials/decal/decal_explode_alphaBlend.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3cf76adc745b1e5b9f1a22dc712d2cb2.unity3d

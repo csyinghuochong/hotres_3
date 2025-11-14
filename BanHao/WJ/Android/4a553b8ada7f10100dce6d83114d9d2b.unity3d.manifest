@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1720114917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3faf8f5feae91ace2d24ab21b954b8fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3faf8f5feae91ace2d24ab21b954b8fa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_potion_ground_lv5.png
+Dependencies: []

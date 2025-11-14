@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3692281932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d437e477d242a189579d840f0e74af2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6d437e477d242a189579d840f0e74af2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/Gradients/GradientCenter03.png
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1514059356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e888f967d4cbde4d95ec482d85ddc9bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e888f967d4cbde4d95ec482d85ddc9bd
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Materials/Sparkles/sparkle_legendary.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/e59ed6d8ecab85c56bc9ba72443e2d24.unity3d

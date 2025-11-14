@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3841022378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1779ef75965fe746e14f502929802f38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1779ef75965fe746e14f502929802f38
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Moon5-2.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/4a4be5eb8e620aa1cd486da69f6b2c03.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7329674e30a9d3dd367974d73fe5e452.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/771b39e6c4fc3ca02fa83ff8835b185f.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ff4391dbf0f4770e5136d4255d656b4b.unity3d

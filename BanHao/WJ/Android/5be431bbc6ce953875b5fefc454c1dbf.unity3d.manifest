@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3679034168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 062b6cd6c1cd96fc2591cfcc0328eb1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 062b6cd6c1cd96fc2591cfcc0328eb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/met/Quzak_shockwave_003.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ba17014a7b530d8c8d410da4c4f52818.unity3d

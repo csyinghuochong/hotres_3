@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4178144145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6927cf71f0f596bcb00df3e8e8883e86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce1fc08df2f758d6d856448290aaf38c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6927cf71f0f596bcb00df3e8e8883e86
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_PenHuo_2.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/08afaac9b4e9c132ec67ab2be34d0a12.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/50d0c1813f82d388950e2fd43e824df8.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/bf70c6db0c0c12e04df48bd3f4d4b508.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c986d26dd2bae7ee225c38bbc7e34ea4.unity3d

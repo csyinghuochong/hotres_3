@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3411048012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc818bf8cf2a2cac40ebc16506f0de32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cc818bf8cf2a2cac40ebc16506f0de32
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Materials/Portals/portalrays.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7e318b2f83d98f34796b9a317c235e97.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 507170800
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bd16f9e475dcfad812f6af99cc86328
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6bd16f9e475dcfad812f6af99cc86328
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Textures/Gazer/T_Fire_Gazer_A_Lan.png
+Dependencies: []

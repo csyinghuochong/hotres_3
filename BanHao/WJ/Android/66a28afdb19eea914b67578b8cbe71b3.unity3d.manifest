@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 309610421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58a9d5e0f3c557f4fd7b97820bfd9088
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 58a9d5e0f3c557f4fd7b97820bfd9088
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-Spell-Blast-Violet2.anim
+Dependencies: []

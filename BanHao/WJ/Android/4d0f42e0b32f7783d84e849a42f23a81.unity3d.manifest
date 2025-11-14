@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2331929259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73d6aeaf8dab1f334c5f640e4987f107
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 73d6aeaf8dab1f334c5f640e4987f107
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/66378140908060267
+  1.jpg
+Dependencies: []

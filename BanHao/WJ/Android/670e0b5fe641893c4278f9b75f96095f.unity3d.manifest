@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4286169804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67b177fdce141e525b45f6a9af6db311
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 67b177fdce141e525b45f6a9af6db311
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/texiao/Textures/Light_1.png
+Dependencies: []

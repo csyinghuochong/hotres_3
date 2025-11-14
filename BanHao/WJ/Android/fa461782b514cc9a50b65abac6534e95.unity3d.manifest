@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1788704529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91d9f45fcda4dc85c08846d2d2f3b4b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 91d9f45fcda4dc85c08846d2d2f3b4b9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Icon_PictoIcon_Auto.png
+Dependencies: []

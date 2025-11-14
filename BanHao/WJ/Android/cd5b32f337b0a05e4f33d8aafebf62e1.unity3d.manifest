@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2440126105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d4441d66e7e20e83003bb982bf29230
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8d4441d66e7e20e83003bb982bf29230
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_338.png
+Dependencies: []

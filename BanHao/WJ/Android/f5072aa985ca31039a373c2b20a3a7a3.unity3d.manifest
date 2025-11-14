@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4031163685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60b7c4de77fe74dd8b4a860affa38284
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 60b7c4de77fe74dd8b4a860affa38284
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Direction49.png
+Dependencies: []

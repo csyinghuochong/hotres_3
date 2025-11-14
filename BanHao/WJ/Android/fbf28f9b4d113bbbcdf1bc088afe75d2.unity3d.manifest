@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 362351756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f2699b2891f1adf2b424c8aa61555b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cce081c9a91ac321d385fd7d62c9aef6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2f2699b2891f1adf2b424c8aa61555b9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Monster/70009002.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/96f429cc60650a8a185f9085a2429397.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a3aa06fb76012a63a520ddb36e21bab2.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/fdd1e8fd766b7d01a8c746fb489d5ca8.unity3d

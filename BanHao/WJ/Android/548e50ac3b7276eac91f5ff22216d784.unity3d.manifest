@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 468360355
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8da34293d0da46168e04bbe9f37102a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8da34293d0da46168e04bbe9f37102a8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Materials/TwoSides14.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/86e17cc5ea77bef276a4fb8cdddf43c6.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a3ec2b50f9f313c1c3e33b88d1feef39.unity3d

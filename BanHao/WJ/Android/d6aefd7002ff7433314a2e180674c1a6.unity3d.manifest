@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2060499403
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 158a5b823324d7a3b8d7ebb64df8f2fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 158a5b823324d7a3b8d7ebb64df8f2fe
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Efx_RowFire/Impact01.png
+Dependencies: []

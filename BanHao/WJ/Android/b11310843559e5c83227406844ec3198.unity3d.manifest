@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 147780721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11fb2ae388c388eb4752b1eac2238f5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 11fb2ae388c388eb4752b1eac2238f5d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/BattleDragon/Colosseum/Materials/wall.mat
+Dependencies: []

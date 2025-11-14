@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2632996659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b872790eae94250403d6a972c4effc8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d51cbaa249c2deb056f15533c97ca7bf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b872790eae94250403d6a972c4effc8b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Stone/Model/Rock_01.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/96f8f4978820bd3b98bf2ca057d2bad3.unity3d

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3076495324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12c311b4e7822787149138fff753da6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08ad536c959962c3a8a86ea628d68edc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 12c311b4e7822787149138fff753da6a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Cute Zoo 3/FBX/Platypus.fbx
+Dependencies: []

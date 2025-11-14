@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1697132824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04ae79cc4bbd20d3a182a4ce95306733
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 04ae79cc4bbd20d3a182a4ce95306733
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/BattleDragon/Colosseum/Materials/red_wall_2.mat
+Dependencies: []

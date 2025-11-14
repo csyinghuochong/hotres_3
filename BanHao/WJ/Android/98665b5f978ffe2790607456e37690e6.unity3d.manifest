@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2973339850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd62cb8a956c20ad3ffe47e83a59fb63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cd62cb8a956c20ad3ffe47e83a59fb63
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/ZhangJie_1/shuguai/ShuGuai.controller
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/2ab1358fd4faf8effc456e2dba51dc9e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7ba4d01c7085eda0f4ab1df3c1dd9bc1.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/954a9cf6182402d4f48bb09cc6046a26.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/aa3bb7167b6333459448563ff41a6511.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/de4a1d57e763e9b3a12bdf8543163cb5.unity3d

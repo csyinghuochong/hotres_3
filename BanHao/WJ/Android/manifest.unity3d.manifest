@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 242720696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f44e904a1924a82932e0d5bc7b3caa3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: daaba06a732bce9d7379bd75a2338582
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9f44e904a1924a82932e0d5bc7b3caa3
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e37899b02da97a4099222e8e777e5ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: libx.AssetRef
+- AssemblyName: Unity.Mono
+  ClassName: libx.BundleRef
+Assets:
+- Assets/Res/XAsset/Manifest.asset
+Dependencies: []

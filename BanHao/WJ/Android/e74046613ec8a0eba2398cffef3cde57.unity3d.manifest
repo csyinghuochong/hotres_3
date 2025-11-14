@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4275589556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d678b082b0c4aa28615ec888a15897e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0d678b082b0c4aa28615ec888a15897e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Materials/Add_02.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/0a9cdb5f9ca0aa65890e08c97c17221b.unity3d

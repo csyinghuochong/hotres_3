@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3287785143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9868eec66dcb8206a7f82fddb7b00a3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9868eec66dcb8206a7f82fddb7b00a3a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/BeamWhite01.PNG
+Dependencies: []

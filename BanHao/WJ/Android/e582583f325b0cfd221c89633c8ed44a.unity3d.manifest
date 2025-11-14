@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1032173885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c70e1917e83f02271e37214722c5fa4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c70e1917e83f02271e37214722c5fa4c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/PetAnimator/2000003.controller
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/5f12b3f52f50daa4d850216d0d831379.unity3d

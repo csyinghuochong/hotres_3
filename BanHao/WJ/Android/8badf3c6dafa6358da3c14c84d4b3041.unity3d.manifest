@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2054442498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b44362cb09a75abb1c55f091c3ecdeb1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b44362cb09a75abb1c55f091c3ecdeb1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Bonfire.jpg
+Dependencies: []

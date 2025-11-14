@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 1395105506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de0197d410d09cd2600c7f4b759705f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e535f2cb075b231a06f0c05b6741bff1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: de0197d410d09cd2600c7f4b759705f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: be3942bc1a94d3640b93f9eb4e6ddf61, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/NPC_FuHua.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/128395e31b48e68d8463f75f9a2c27cb.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/9d8578a1ff4c8a7e3b96651fb242d0ab.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a2817d2eeaab9935e29f0c507f62685e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a2d490896b2872106cd8b6d2678400fe.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ce97eb3ef8fedd59fc4e077fae674894.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3341802707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c7f3b58b03e1c148a5503381a1b8327
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6c7f3b58b03e1c148a5503381a1b8327
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Tomato_01_MetallicSmoothness.png
+Dependencies: []
