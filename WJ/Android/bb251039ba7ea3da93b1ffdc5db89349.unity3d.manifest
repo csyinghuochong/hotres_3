@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 390440705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e267070232aaaeae53b354f88d91334
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4e267070232aaaeae53b354f88d91334
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy Heroes Pack 01/Dwarf Warrior/Prefabs/Axe Yellow.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/82ab7c498246199e8dcaf4a2c1198736.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/f7f55644bd22bbbf399e2b493415e0c4.unity3d

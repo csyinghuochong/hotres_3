@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 905140484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7483267d39bd095b742c10493232bc1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7483267d39bd095b742c10493232bc1b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy Heroes Pack 01/Elven Archer/Prefabs/Bow Green.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/cfacfeb4c8ede5a4d71b08f9900770e3.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/de0c0a8a6c5c98cee3b57e3cb76e3a59.unity3d

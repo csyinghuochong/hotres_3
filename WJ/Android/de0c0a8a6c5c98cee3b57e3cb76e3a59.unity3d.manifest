@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 944194855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82ba8e01e1e1224bc8eb9891b9483061
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 82ba8e01e1e1224bc8eb9891b9483061
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy Heroes Pack 01/Elven Archer/Materials/Elven Archer Green.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/add9dcda718e3efc75eac1042b812a76.unity3d
