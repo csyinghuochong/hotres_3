@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3265916108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 494c2acb6d65be966b195220b46a03df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 494c2acb6d65be966b195220b46a03df
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Textures/Rock_Snow_1.jpg
+Dependencies: []

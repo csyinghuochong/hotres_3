@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4263556738
+CRC: 3645540067
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9e0a0a8f8222cca9497b5e6055974861
+    Hash: 4ffa939b0760e7d0ac002c5e04c806e3
   TypeTreeHash:
     serializedVersion: 2
     Hash: e724ac62afadf22b9c059e431d9630ac
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9e0a0a8f8222cca9497b5e6055974861
+    Hash: 4ffa939b0760e7d0ac002c5e04c806e3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -52,10 +52,8 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/Unit/ZuoQi/10010.prefab
 Dependencies:
-- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/26672021db0be5ce2ac0b44bf2226d36.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/2fc6d47735ab615f7930cd1d0768de96.unity3d
-- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/37b6b835c2cb9ad311f4f9cfb315f346.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/4169bed4f58861eb43b0704cd7ed227c.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/4c170cae02d7f1010776c02118f52fa4.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/4e425bb477cdd67d0e3f22b2e249f3ed.unity3d
@@ -67,6 +65,7 @@ Dependencies:
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a40d651a5eecb0e9c9d817a3c48580ac.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/b0aa4e1f4e4490999e91c97ddc639764.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/b90e2481c54770c6a3526696d53f9774.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/bf153a89a7fd29d31db16be3bc0c5eb4.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c77158a37a1248f21325ef6b8ed22e1a.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/cb38772bb40fbcb77832ecc34278783f.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e130b5ee9de5a1d8e990b491594854be.unity3d

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 854152475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8028c283046a432b033cfa55c4737d57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8028c283046a432b033cfa55c4737d57
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Monsters Ultimate Pack 02 Cute Series/Dragon Fire Cute Series/FBX/Dragon
+  Fire.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/087cedfc074ca3bad6a26f09d11c69a9.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1132d9bda5f9164a4b932127b6e1095f.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/68bce5263ce9b4bd4f2788875d05e7be.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/6c449ed0e4d20f59f9fdbdadc713559d.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7a3ea3eea15f9efe2b7b894bb6ecb423.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/8ae8bc8269faa18c3c42f8db1ecbc45e.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/93ac4bd806259de1f3e20c33124f4286.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/b8dba70a0e3b3f7ff6fd80642c57dc59.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e61a53d57dc098eef915c0f664f8ef47.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ed1283ff4b3f3e369784c120cfa4e2c0.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/f3507f268974797738774bcdfa7a4bfd.unity3d

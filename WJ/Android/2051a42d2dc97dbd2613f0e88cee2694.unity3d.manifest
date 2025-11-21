@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1109230248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cec0177e78a30511a3962bdcfec9e564
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52d1cf33f0ddacda9698410fe4959a8b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cec0177e78a30511a3962bdcfec9e564
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Monsters Ultimate Pack 05 Cute Series/Dragon Darkness Cute Series/FBX/Dragon
+  Darkness@Cast Spell.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/be0d942b726ac0c44717c8af6fb49835.unity3d

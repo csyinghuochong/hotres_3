@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3590430038
+CRC: 1581692673
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fe93073fd71555da15bcc0e5e221ea6b
+    Hash: d060ed530390f8485d41e1e046e038b7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fe93073fd71555da15bcc0e5e221ea6b
+    Hash: d060ed530390f8485d41e1e046e038b7
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -74,6 +74,7 @@ Assets:
 - Assets/Bundles/Icon/TiTleIcon/Img_UIFriend_EN.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIPopularize.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIPaiMai.png
+- Assets/Bundles/Icon/TiTleIcon/ImgBig_17.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIEquipmentIncrease_EN.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIJiaYuanUpLv_EN.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIPetCangKu.png
@@ -111,14 +112,14 @@ Assets:
 - Assets/Bundles/Icon/TiTleIcon/UILingDi.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIActivity.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UISetting.png
-- Assets/Bundles/Icon/TiTleIcon/Img_UIChouKaWarehouse.png
+- Assets/Bundles/Icon/TiTleIcon/110007.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIChouKa_EN.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIPetEgg.png
-- Assets/Bundles/Icon/TiTleIcon/Img_UIRunRace.png
+- Assets/Bundles/Icon/TiTleIcon/Img_UIChouKaWarehouse.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIShouJi.png
-- Assets/Bundles/Icon/TiTleIcon/Img_UIWarehouse.png
+- Assets/Bundles/Icon/TiTleIcon/Img_UIRunRace.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UITowerOfSeal_EN.png
-- Assets/Bundles/Icon/TiTleIcon/Img_UIWeiJingShop.png
+- Assets/Bundles/Icon/TiTleIcon/Img_UIWarehouse.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIChengJiu_EN.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIShenQiMake.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIBattleRecruit.png
@@ -148,6 +149,7 @@ Assets:
 - Assets/Bundles/Icon/TiTleIcon/UILingDiReward.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIChouKaWarehouse_EN.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIJiaYuanPet_EN.png
+- Assets/Bundles/Icon/TiTleIcon/Img_UIWeiJingShop.png
 - Assets/Bundles/Icon/TiTleIcon/110002.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIJiaYuanTreasureMapStorage_EN.png
 - Assets/Bundles/Icon/TiTleIcon/Img_UIJueXing_EN.png

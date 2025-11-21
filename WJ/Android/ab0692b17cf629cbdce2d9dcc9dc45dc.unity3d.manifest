@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2898576220
+CRC: 131368316
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e411e7f57164f1772d55aabe06cdfbd
+    Hash: 8e701602c56490d02f9f2bf402f07a0b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8e411e7f57164f1772d55aabe06cdfbd
+    Hash: 8e701602c56490d02f9f2bf402f07a0b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -24,8 +24,10 @@ Assets:
 - Assets/Bundles/Icon/MonsterIcon/72006013.png
 - Assets/Bundles/Icon/MonsterIcon/70003012.png
 - Assets/Bundles/Icon/MonsterIcon/70006013.png
+- Assets/Bundles/Icon/MonsterIcon/72007012.png
 - Assets/Bundles/Icon/MonsterIcon/70006012.png
 - Assets/Bundles/Icon/MonsterIcon/72001011.png
+- Assets/Bundles/Icon/MonsterIcon/72007013.png
 - Assets/Bundles/Icon/MonsterIcon/72000101.png
 - Assets/Bundles/Icon/MonsterIcon/70002007.png
 - Assets/Bundles/Icon/MonsterIcon/72005011.png
@@ -60,6 +62,7 @@ Assets:
 - Assets/Bundles/Icon/MonsterIcon/70004010.png
 - Assets/Bundles/Icon/MonsterIcon/72001012.png
 - Assets/Bundles/Icon/MonsterIcon/72003012.png
+- Assets/Bundles/Icon/MonsterIcon/72007011.png
 - Assets/Bundles/Icon/MonsterIcon/72002011.png
 - Assets/Bundles/Icon/MonsterIcon/70001209.png
 - Assets/Bundles/Icon/MonsterIcon/72003013.png
