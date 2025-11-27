@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2425524517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 322868dc2a6ebf27097ceebd7b5b58d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 322868dc2a6ebf27097ceebd7b5b58d4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Jpg/110006.jpg
+Dependencies: []

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3266859662
+CRC: 1857321786
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 141c1e11c38da772fa1543d131c8c1cc
+    Hash: eb6d6fc986a1a724714fb574902604e0
   TypeTreeHash:
     serializedVersion: 2
     Hash: badeaecc701b020739bd43cf59f8b9b4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 141c1e11c38da772fa1543d131c8c1cc
+    Hash: eb6d6fc986a1a724714fb574902604e0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -87,6 +87,7 @@ Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UIMagickaSlot.prefab
 Dependencies:
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0e3b27ceaa3224218667f981d56e5552.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/10006fc1a04c22ba8d8fb303c749b7fe.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/113f99598e418e3618f7c0d62066fb82.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/160a3c949daff9644bb4cce6192b79a6.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/22e32649998028efdbc71895f4d0bfc7.unity3d
