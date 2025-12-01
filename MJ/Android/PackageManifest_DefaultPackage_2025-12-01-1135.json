@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-12-01-1083",
+    "PackageVersion": "2025-12-01-1135",
     "AssetList": [
         {
             "Address": "",
@@ -33269,9 +33269,9 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "FileHash": "2d2b3fe88c4a79060c435ac37aa06adc",
-            "FileCRC": "931e3c6b",
-            "FileSize": 5943784,
+            "FileHash": "709e179b4e5ecdeb275845714cfaf19d",
+            "FileCRC": "be202353",
+            "FileSize": 5943759,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
