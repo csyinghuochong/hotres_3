@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1979568946
+CRC: 1188060238
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6faa96a9dcb2ff629ac1e8328d1d8a34
+    Hash: 0d047889eecec9cf8746090bcd7b29c6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ae63099466ce23f1c64b4541a1e217a9
+    Hash: 5289c7ec2c62b9f2a167539780eb9e87
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6faa96a9dcb2ff629ac1e8328d1d8a34
+    Hash: 0d047889eecec9cf8746090bcd7b29c6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,8 +28,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 115
@@ -64,13 +62,12 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Bundles/UI/Main/TimerChouKa/UITimerChouKa.prefab
+- Assets/Bundles/UI/Main/ActivityV1/UIActivityV1PointsChouKa.prefab
 Dependencies:
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0ae43d3e675a3134f1c24b56053098cf.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/113f99598e418e3618f7c0d62066fb82.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/160a3c949daff9644bb4cce6192b79a6.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/37c69053e823b75820803951b8f78aa1.unity3d
-- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/3adefeef541aa505daa687dedb3d4439.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/4513ef296cbbf14974469edc9e00c103.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
