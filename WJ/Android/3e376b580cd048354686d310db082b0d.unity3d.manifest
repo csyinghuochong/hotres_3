@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 636580592
+CRC: 1854981692
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 36993f5e1228c37f3adba655ace2dff5
+    Hash: c80e4a7a164f827a31d87e3c4c1616ff
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 497e74b9c20b9ad681f1c7207a4446d9
+    Hash: 0aef039047654746907667e15a685f8e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 36993f5e1228c37f3adba655ace2dff5
+    Hash: c80e4a7a164f827a31d87e3c4c1616ff
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,13 +33,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 97cdb235702b63d488f2d37137469d13, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -74,12 +70,10 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Bundles/UI/Main/Make/UIShenQiMake.prefab
+- Assets/Bundles/UI/TrialDungeon/UITrialHurtData.prefab
 Dependencies:
-- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
-- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/59377b882607119f2a0817f4ad83209d.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0932869719796c9bd3aaf40bbbf7f53d.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/254690b6326e19782f6b47056188bbfa.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
-- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ad95c8537a3d6992701f22d140e7f3ad.unity3d
-- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ec6bc52bd2ed3d5a058a5e3b6000742b.unity3d
-- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/fd91049ee6b939c843cc004390e04fac.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/8cc7d1a1c8acafbb4b52d92a67e790a9.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/f20faf0e7c55bf860c320300b0530a90.unity3d
