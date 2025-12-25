@@ -1,20 +1,18 @@
 ManifestFileVersion: 0
-CRC: 1867660770
+CRC: 2203031211
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 96778fe60c31b65285fa554c3ab2a49f
+    Hash: 2824f9e2a7873298529fad52ea94916c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 202713e43006047a4ebd84482ff9d053
+    Hash: 830b1dec278516b2b8ce404367942ce3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 96778fe60c31b65285fa554c3ab2a49f
+    Hash: 2824f9e2a7873298529fad52ea94916c
 HashAppended: 0
 ClassTypes:
 - Class: 1
-  Script: {instanceID: 0}
-- Class: 28
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
@@ -60,6 +58,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/TowerOfSeal/UITowerOfSealMain.prefab
 Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/409937b8842baeaf040a1e0f759dfc6b.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a9afd27aac424ed4aeba6e4728bc30f2.unity3d
