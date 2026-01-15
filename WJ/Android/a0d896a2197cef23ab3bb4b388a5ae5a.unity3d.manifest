@@ -1,20 +1,22 @@
 ManifestFileVersion: 0
-CRC: 3238114039
+CRC: 2458147689
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 02093f6b06d200d7d8a20418d8d8b258
+    Hash: c8c2bfa6a63bc8e11ba3e2b084c50047
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 02093f6b06d200d7d8a20418d8d8b258
+    Hash: c8c2bfa6a63bc8e11ba3e2b084c50047
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/ActivityConfigCategory.bytes
+- Assets/Res/UI/UIRes/Imgage/Img_314_1.png
 Dependencies: []
