@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-12-01-1135",
+    "PackageVersion": "2026-01-20-605",
     "AssetList": [
         {
             "Address": "",
@@ -36409,9 +36409,9 @@
         },
         {
             "BundleName": "assets_bundles_ui_dlg_dlgmjlogin.bundle",
-            "FileHash": "e06d6a1e7e775523327e8833a652a33b",
-            "FileCRC": "6ca418d5",
-            "FileSize": 2803552,
+            "FileHash": "e11cfae7085f7e45b5a94574217202f1",
+            "FileCRC": "5c1f9e8e",
+            "FileSize": 2803551,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
