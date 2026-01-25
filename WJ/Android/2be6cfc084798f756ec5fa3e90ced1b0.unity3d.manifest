@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1440242272
+CRC: 3974175822
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1bae1543b1cd8f48dedea164fd08ffdc
+    Hash: 4b7a378b5d1d514e46386e86ae984411
   TypeTreeHash:
     serializedVersion: 2
     Hash: db26abb0ce77ab652e1d9af18896ed98
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1bae1543b1cd8f48dedea164fd08ffdc
+    Hash: 4b7a378b5d1d514e46386e86ae984411
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -38,7 +38,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Unit/Npc/NPC_ZaHuo.prefab
+- Assets/Bundles/Unit/Npc/NPC_ZaHuo_2.prefab
 Dependencies:
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
 - G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/3e9060e427c16466caf92faa95af995a.unity3d

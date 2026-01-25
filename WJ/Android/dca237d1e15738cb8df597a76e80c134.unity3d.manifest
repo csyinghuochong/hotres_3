@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 964316490
+CRC: 3390972866
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7133cfeec0726d90a4b4d7b9860ca48b
+    Hash: b4c26ce42a0cad63539b2cbc3811f77b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7133cfeec0726d90a4b4d7b9860ca48b
+    Hash: b4c26ce42a0cad63539b2cbc3811f77b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -786,6 +786,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15207001.png
 - Assets/Bundles/Icon/ItemIcon/10036007.png
 - Assets/Bundles/Icon/ItemIcon/10031008.png
+- Assets/Bundles/Icon/ItemIcon/10032016.png
 - Assets/Bundles/Icon/ItemIcon/10033002.png
 - Assets/Bundles/Icon/ItemIcon/15510211.png
 - Assets/Bundles/Icon/ItemIcon/xiangzi4.png
@@ -1051,6 +1052,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/15811003.png
 - Assets/Bundles/Icon/ItemIcon/14040002.png
 - Assets/Bundles/Icon/ItemIcon/10011015.png
+- Assets/Bundles/Icon/ItemIcon/10000213.png
 - Assets/Bundles/Icon/ItemIcon/1.png
 - Assets/Bundles/Icon/ItemIcon/10000102.png
 - Assets/Bundles/Icon/ItemIcon/13004003.png
