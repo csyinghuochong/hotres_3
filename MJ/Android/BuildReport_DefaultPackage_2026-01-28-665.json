@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "1.5.1",
         "UnityVersion": "2022.3.62f2c1",
-        "BuildDate": "2026/1/20 10:16:37",
-        "BuildSeconds": 691,
+        "BuildDate": "2026/1/28 11:15:30",
+        "BuildSeconds": 579,
         "BuildTarget": 13,
         "BuildPipeline": 1,
         "BuildMode": 1,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2026-01-20-605",
+        "BuildPackageVersion": "2026-01-28-665",
         "EnableAddressable": false,
         "LocationToLower": false,
         "IncludeAssetGUID": false,
@@ -22,7 +22,7 @@
         "AssetFileTotalCount": 11079,
         "MainAssetTotalCount": 2888,
         "AllBundleTotalCount": 2044,
-        "AllBundleTotalSize": 1078762884,
+        "AllBundleTotalSize": 1078763240,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 0,
@@ -35,7 +35,7 @@
             "AssetGUID": "49ea021e42a2af4459bd4406de503dc5",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -45,7 +45,7 @@
             "AssetGUID": "f31ad0a7433f51c4dba465ea1523f3e9",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -55,7 +55,7 @@
             "AssetGUID": "bfdfd4b5b842a124f9921b6ecc150c74",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -65,7 +65,7 @@
             "AssetGUID": "f00b3051ac6ed6a498c33415bf220b60",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -75,7 +75,7 @@
             "AssetGUID": "dabe459965fc4fe46bbc9fb280f6d0c2",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -85,7 +85,7 @@
             "AssetGUID": "15b8e4a51c0e3f34eaba7f51490f5057",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -95,7 +95,7 @@
             "AssetGUID": "7e805eee4453df342a28b21d31927e97",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -105,7 +105,7 @@
             "AssetGUID": "730c6d6aab83ac3468aca9aadfa41afd",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -115,7 +115,7 @@
             "AssetGUID": "54566686d26b2c24b9900b3411a87d65",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -125,7 +125,7 @@
             "AssetGUID": "2faf52b111ca1cf4ca78deeb8ef8c565",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -135,7 +135,7 @@
             "AssetGUID": "6ea1bf0c3dc8df947a06e97608d6be6f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_aotdlls.bundle",
-            "MainBundleSize": 7783556,
+            "MainBundleSize": 7783563,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -145,7 +145,7 @@
             "AssetGUID": "604df11b98d184842a491258d0ac13c4",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 5943759,
+            "MainBundleSize": 5944107,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -155,7 +155,7 @@
             "AssetGUID": "88e60f17ed943c54fbeba7775e7a8a9c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 5943759,
+            "MainBundleSize": 5944107,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -165,7 +165,7 @@
             "AssetGUID": "ef0fdb4bd1ca7844e8e69a9519898c13",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 5943759,
+            "MainBundleSize": 5944107,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -175,7 +175,7 @@
             "AssetGUID": "0cbc1ce6418988d419947e614210846e",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 5943759,
+            "MainBundleSize": 5944107,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -185,7 +185,7 @@
             "AssetGUID": "d5541da33cd510548b8c16ae15a3cf4b",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 5943759,
+            "MainBundleSize": 5944107,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -195,7 +195,7 @@
             "AssetGUID": "71669979689278846a94c410e5cdf652",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 5943759,
+            "MainBundleSize": 5944107,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -205,7 +205,7 @@
             "AssetGUID": "10e9981bd7b10bb4fae9d0eb1e326dc6",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 5943759,
+            "MainBundleSize": 5944107,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -215,7 +215,7 @@
             "AssetGUID": "b797ceb9e17a9734abc4ec6e5b168c75",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 5943759,
+            "MainBundleSize": 5944107,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -9626,7 +9626,7 @@
             "AssetGUID": "6b65f3b66639a4c4293889cf137ded6c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_ui_dlg_dlgmjlogin.bundle",
-            "MainBundleSize": 2803551,
+            "MainBundleSize": 2803552,
             "DependBundles": [
                 "share_assets_res_uires_imgage.bundle",
                 "share_assets_res_uiresources_image.bundle",
@@ -69448,10 +69448,10 @@
     "BundleInfos": [
         {
             "BundleName": "assets_bundles_aotdlls.bundle",
-            "FileName": "assets_bundles_aotdlls_b8ac180b3d13033cfafdae3618cbf0f7.bundle",
-            "FileHash": "b8ac180b3d13033cfafdae3618cbf0f7",
-            "FileCRC": "c14dfb90",
-            "FileSize": 7783556,
+            "FileName": "assets_bundles_aotdlls_1aaaadcd7943236a86ca0d33875a10d4.bundle",
+            "FileHash": "1aaaadcd7943236a86ca0d33875a10d4",
+            "FileCRC": "9c053c07",
+            "FileSize": 7783563,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -69472,10 +69472,10 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "FileName": "assets_bundles_code_709e179b4e5ecdeb275845714cfaf19d.bundle",
-            "FileHash": "709e179b4e5ecdeb275845714cfaf19d",
-            "FileCRC": "be202353",
-            "FileSize": 5943759,
+            "FileName": "assets_bundles_code_cd97372cae1facb3bd706f95a4fe405a.bundle",
+            "FileHash": "cd97372cae1facb3bd706f95a4fe405a",
+            "FileCRC": "c72bf38c",
+            "FileSize": 5944107,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -74258,10 +74258,10 @@
         },
         {
             "BundleName": "assets_bundles_ui_dlg_dlgmjlogin.bundle",
-            "FileName": "assets_bundles_ui_dlg_dlgmjlogin_e11cfae7085f7e45b5a94574217202f1.bundle",
-            "FileHash": "e11cfae7085f7e45b5a94574217202f1",
-            "FileCRC": "5c1f9e8e",
-            "FileSize": 2803551,
+            "FileName": "assets_bundles_ui_dlg_dlgmjlogin_e06d6a1e7e775523327e8833a652a33b.bundle",
+            "FileHash": "e06d6a1e7e775523327e8833a652a33b",
+            "FileCRC": "6ca418d5",
+            "FileSize": 2803552,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -74984,9 +74984,9 @@
         },
         {
             "BundleName": "assets_bundles_ui_dlg_dlgrealname.bundle",
-            "FileName": "assets_bundles_ui_dlg_dlgrealname_a2d32f35a860ba4d232b87d708e00415.bundle",
-            "FileHash": "a2d32f35a860ba4d232b87d708e00415",
-            "FileCRC": "f81541a5",
+            "FileName": "assets_bundles_ui_dlg_dlgrealname_38becf18801e4058321e0c72e6ad650d.bundle",
+            "FileHash": "38becf18801e4058321e0c72e6ad650d",
+            "FileCRC": "4aa91ce6",
             "FileSize": 20487,
             "IsRawFile": false,
             "LoadMethod": 0,
