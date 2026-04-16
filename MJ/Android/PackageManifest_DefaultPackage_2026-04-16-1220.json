@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-04-16-1136",
+    "PackageVersion": "2026-04-16-1220",
     "AssetList": [
         {
             "Address": "",
@@ -33271,9 +33271,9 @@
     "BundleList": [
         {
             "BundleName": "assets_bundles_aotdlls.bundle",
-            "FileHash": "1aaaadcd7943236a86ca0d33875a10d4",
-            "FileCRC": "9c053c07",
-            "FileSize": 7783563,
+            "FileHash": "9f6e681a08f42274949187750db924e3",
+            "FileCRC": "226b54ee",
+            "FileSize": 7783799,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -33281,9 +33281,9 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "FileHash": "0ad1640e8ee3c826166b11d521d7a952",
-            "FileCRC": "3f7d4121",
-            "FileSize": 5967898,
+            "FileHash": "310f42b3988a20251f3ee6417e8ea195",
+            "FileCRC": "8527f00f",
+            "FileSize": 5967843,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -36961,9 +36961,9 @@
         },
         {
             "BundleName": "assets_bundles_ui_dlg_dlgregister.bundle",
-            "FileHash": "8b95dc8d756f5deb861eefbd88222c6d",
-            "FileCRC": "9e8f4c80",
-            "FileSize": 11744,
+            "FileHash": "5f98d6a948eef2873c427d9325c2819f",
+            "FileCRC": "9000cd1d",
+            "FileSize": 11739,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
