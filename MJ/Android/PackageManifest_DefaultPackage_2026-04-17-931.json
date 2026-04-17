@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-04-16-1220",
+    "PackageVersion": "2026-04-17-931",
     "AssetList": [
         {
             "Address": "",
@@ -33611,9 +33611,9 @@
         },
         {
             "BundleName": "assets_bundles_ui_common_es_activityyueka.bundle",
-            "FileHash": "0ffd18433079419cd310f457d4bf92d0",
-            "FileCRC": "dee3b1b9",
-            "FileSize": 47502,
+            "FileHash": "113de8b11d46040d94b3dd645af9d7df",
+            "FileCRC": "27b20881",
+            "FileSize": 47504,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -36421,8 +36421,8 @@
         },
         {
             "BundleName": "assets_bundles_ui_dlg_dlgmjlogin.bundle",
-            "FileHash": "e09acda6f2623c165f0e7373dcee576f",
-            "FileCRC": "6c9c46b0",
+            "FileHash": "d3416ac4a8ada471df70b69a5e71ace2",
+            "FileCRC": "f4100ec7",
             "FileSize": 2803920,
             "IsRawFile": false,
             "LoadMethod": 0,
