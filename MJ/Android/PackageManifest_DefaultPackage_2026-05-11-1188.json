@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-05-11-1158",
+    "PackageVersion": "2026-05-11-1188",
     "AssetList": [
         {
             "Address": "",
@@ -35741,9 +35741,9 @@
         },
         {
             "BundleName": "assets_bundles_ui_dlg_dlgcreaterole.bundle",
-            "FileHash": "ea1d4b47feefcc5168e12dd91890bc36",
-            "FileCRC": "cc870ca4",
-            "FileSize": 63354,
+            "FileHash": "359d2f08966bdd9086c7c329360b60f1",
+            "FileCRC": "40045d63",
+            "FileSize": 63353,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
