@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-05-18-663",
+    "PackageVersion": "2026-05-18-958",
     "AssetList": [
         {
             "Address": "",
@@ -40019,8 +40019,8 @@
         },
         {
             "BundleName": "assets_bundles_unit_jingling_310105.bundle",
-            "FileHash": "d927a9ffd8d5edd7035ff2333450e2b2",
-            "FileCRC": "36e914a4",
+            "FileHash": "748c5d4c3c1633e390b9f86dc1e2f6e6",
+            "FileCRC": "1638b640",
             "FileSize": 7588,
             "IsRawFile": false,
             "LoadMethod": 0,
@@ -40739,8 +40739,8 @@
         },
         {
             "BundleName": "assets_bundles_unit_monster_310105.bundle",
-            "FileHash": "7a3844eb6421a72bfc2bdc53408203be",
-            "FileCRC": "db2c3a39",
+            "FileHash": "41dea8a68b69f8ce1f6ed6525c567539",
+            "FileCRC": "95674daf",
             "FileSize": 7589,
             "IsRawFile": false,
             "LoadMethod": 0,
@@ -42129,8 +42129,8 @@
         },
         {
             "BundleName": "assets_bundles_unit_pet_310105.bundle",
-            "FileHash": "48ddfccc265810c7275aca64aa0061cf",
-            "FileCRC": "f9f3f6fd",
+            "FileHash": "47505a9f871e24e490dde4d71bbed4a0",
+            "FileCRC": "b297e97b",
             "FileSize": 7616,
             "IsRawFile": false,
             "LoadMethod": 0,
