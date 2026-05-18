@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-05-17-796",
+    "PackageVersion": "2026-05-18-663",
     "AssetList": [
         {
             "Address": "",
@@ -33409,9 +33409,9 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "FileHash": "836ca3e52b0da50a069a043e99888069",
-            "FileCRC": "1a1cf3c6",
-            "FileSize": 5977853,
+            "FileHash": "94be37da5dd44024dd7140660c8a7905",
+            "FileCRC": "1897a4b2",
+            "FileSize": 5978623,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -34689,9 +34689,9 @@
         },
         {
             "BundleName": "assets_bundles_ui_common_es_rolebag.bundle",
-            "FileHash": "02315d25b2b8b6e7d2f2fb09a951c09e",
-            "FileCRC": "daee51b0",
-            "FileSize": 37020,
+            "FileHash": "c8186e5b3f0822c1d026d4623deb2a21",
+            "FileCRC": "75a830c6",
+            "FileSize": 37026,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
