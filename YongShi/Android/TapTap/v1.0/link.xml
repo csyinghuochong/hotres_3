@@ -22,7 +22,10 @@
     <type fullname="particleColorChanger/colorChange" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Reporter" preserve="all" />
+    <type fullname="ReporterMessageReceiver" preserve="all" />
     <type fullname="T4MObjSC" preserve="all" />
+    <type fullname="Images" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="cn.sharesdk.unity3d, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="cn.sharesdk.unity3d.MobSDK" preserve="all" />
@@ -188,6 +191,7 @@
     <type fullname="Scence_TanSuo" preserve="all" />
     <type fullname="ServerHuoDong_1" preserve="all" />
     <type fullname="ShopList" preserve="all" />
+    <type fullname="ShowReprter" preserve="all" />
     <type fullname="Skill_FireWall" preserve="all" />
     <type fullname="Skill_FireWall_2" preserve="all" />
     <type fullname="Skill_Move1" preserve="all" />
@@ -584,6 +588,11 @@
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GUISkin" preserve="all" />
+    <type fullname="UnityEngine.GUISettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.GUIStyle" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
