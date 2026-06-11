@@ -634,7 +634,6 @@
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.Outline" preserve="all" />
     <type fullname="UnityEngine.UI.RawImage" preserve="all" />
-    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
     <type fullname="UnityEngine.UI.Shadow" preserve="all" />
