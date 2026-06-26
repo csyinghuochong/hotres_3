@@ -170,7 +170,8 @@
     <type fullname="Rose_TaskList_row_UIPoint" preserve="all" />
     <type fullname="Rose_TaskList_Show" preserve="all" />
     <type fullname="Rose_TaskList_TaskShow" preserve="all" />
-    <type fullname="RoseSkill_Around" preserve="all" />
+    <type fullname="RoseSkill_BaoFa" preserve="all" />
+    <type fullname="RoseSkill_BianShen" preserve="all" />
     <type fullname="RoseSkill_ChaoFeng_1" preserve="all" />
     <type fullname="RoseSkill_ChaoFeng_2" preserve="all" />
     <type fullname="RoseSkill_ChaoFeng_3" preserve="all" />
@@ -181,9 +182,11 @@
     <type fullname="RoseSkill_Jiaxue_3" preserve="all" />
     <type fullname="RoseSkill_Jinghua" preserve="all" />
     <type fullname="RoseSkill_LaJin" preserve="all" />
+    <type fullname="RoseSkill_OrbitBall" preserve="all" />
     <type fullname="RoseSkill_PetJiaxue_1" preserve="all" />
     <type fullname="RoseSkill_SelfAddBuff_1" preserve="all" />
     <type fullname="RoseSkill_Sing_1" preserve="all" />
+    <type fullname="RoseSkill_XiXue" preserve="all" />
     <type fullname="RoseSkill_ZhanSha_1" preserve="all" />
     <type fullname="RoseSkill_ZhongJi_1" preserve="all" />
     <type fullname="RoseSkillZhiShi" preserve="all" />
