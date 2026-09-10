@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3101622417
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 559b7eb5dcf6339153883e6d52ca3912
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 559b7eb5dcf6339153883e6d52ca3912
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Textures/Noise35t.png
+Dependencies: []

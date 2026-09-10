@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2862779104
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10b0e5a6f76e8293229b8b7392dfb915
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 10b0e5a6f76e8293229b8b7392dfb915
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Point117.png
+Dependencies: []

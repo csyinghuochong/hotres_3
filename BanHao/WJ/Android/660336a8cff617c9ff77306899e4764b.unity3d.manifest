@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2342072943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 791e011efd1f8639e7587792fde33ce6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 791e011efd1f8639e7587792fde33ce6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_78_1.png
+Dependencies: []

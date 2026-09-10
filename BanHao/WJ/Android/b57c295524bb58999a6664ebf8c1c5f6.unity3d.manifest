@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 729001392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54b7894b23f2911ee47aebbc6fd3d66f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e07c6e0615e63ae3c7d9413510c73dcd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 54b7894b23f2911ee47aebbc6fd3d66f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_ChiXu_1.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/0d792f5c3b554a85a0a56272736fdf71.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/2244c733d3d6128c0626f05feea04fdb.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3438df5f9e7cdb65468fc91314186058.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/51de09cb05e12d1446892b94e275fa77.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/933293dcfad3fe77112b1bb11b220257.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/961dd082117045f02ca6ee866c6fbd27.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/bc2503f51ff5a63d2faa1274074c6c86.unity3d

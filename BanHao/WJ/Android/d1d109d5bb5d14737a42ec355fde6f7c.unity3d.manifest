@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3134205299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4770ac2b8221597dfd5a622497d1179
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a4770ac2b8221597dfd5a622497d1179
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/ImpactWhite03_MobAdd_4x4.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/46a223a2c289f5c2e9994fe180b9cb01.unity3d

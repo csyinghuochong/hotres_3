@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 347232090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d70e88b21ead2a55f53e0d75da70f01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1d70e88b21ead2a55f53e0d75da70f01
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Smokes/simpleSmoke3.png
+Dependencies: []

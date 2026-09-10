@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3968738738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a601abea45c232d76d431f711176ca94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c3e863c48f2dc4e1c2cd9002f7db620
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a601abea45c232d76d431f711176ca94
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/Tonton/FBX/TonTonB.fbx
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ff27e9d2e87a8369ad4e94e0f43a0cd2.unity3d

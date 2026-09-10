@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 27549689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24705a9ab7c95364efc8fdc0034a68fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d51cbaa249c2deb056f15533c97ca7bf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 24705a9ab7c95364efc8fdc0034a68fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/objectB/scene/build/stsm_build_chengqiang_002.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a7e60f251bfc742e8abe45ac7d7f5844.unity3d

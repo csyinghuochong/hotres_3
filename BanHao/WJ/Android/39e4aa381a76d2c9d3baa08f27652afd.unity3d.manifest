@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1648324030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c761b9ea2aa617e1fce5fcbf44b1d60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3c761b9ea2aa617e1fce5fcbf44b1d60
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Textures/environment_Building_qiaoliang_003_02.png
+Dependencies: []

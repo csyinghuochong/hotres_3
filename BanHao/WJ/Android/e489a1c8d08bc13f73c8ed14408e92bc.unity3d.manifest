@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2481143139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 634a7581c272aec90116f681cd766c1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 634a7581c272aec90116f681cd766c1c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TJEZTX_Textures_0440_M.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/6bf6fb8efc5f80673d46dfb3558206c2.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/73634a3149e94209dfb7c50671b62b84.unity3d

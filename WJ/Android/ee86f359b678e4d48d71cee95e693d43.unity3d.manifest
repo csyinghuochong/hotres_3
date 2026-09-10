@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 758074572
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27d3b8ebba3be0e42ce33c13e19e890b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22c06bd44db8deaaf0a2739e91875f26
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 27d3b8ebba3be0e42ce33c13e19e890b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a959a1b0b8414d4fb8a68bdc12d69ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: acbb7810273873d4a82423fa8fc12ea8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_PenHuo_3.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/47c6cf86449da6086c3d8df729948ee7.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/4f93427782ac303c77b9e0ad825d8d3e.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a391be8cb55e418934cce0adebb65364.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/cc6001d9c8cd40506efb1cfb1421f872.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e11ea0a5f42a4193d7b283ebf8263e23.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/efdaeb204fddc014733c40a055552dd3.unity3d

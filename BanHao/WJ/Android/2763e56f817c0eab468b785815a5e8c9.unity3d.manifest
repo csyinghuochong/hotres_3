@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3543576721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ecd23ddc5d93755c1db10b626145bebb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ecd23ddc5d93755c1db10b626145bebb
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/BossAnimator/ShuYaoBoss.controller
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a0c305f5fc977fe1607acb744b1f5012.unity3d

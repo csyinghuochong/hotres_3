@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2519988306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dd6637f859f149af1adc13cc58d6e7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9dd6637f859f149af1adc13cc58d6e7d
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/ZuoQiShowConfigCategory.bytes
+Dependencies: []

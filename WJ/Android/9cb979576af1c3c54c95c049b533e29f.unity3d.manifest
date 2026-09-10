@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 240124228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9c7304926544affc8475a3cbd983baf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fde6811ecc759911b6d3426a16e53445
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e9c7304926544affc8475a3cbd983baf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterModel/Monster/M20006/M20006_attack.FBX
+Dependencies: []

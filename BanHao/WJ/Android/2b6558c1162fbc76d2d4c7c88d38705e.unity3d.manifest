@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4021392304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c0ef2d45fc95a8b764d24e91e03a902
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4c0ef2d45fc95a8b764d24e91e03a902
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Forest/Animations/Rabby/Rabby_Animations_Check.controller
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/5cd3a4c185f2f0ef133b59808c1b9085.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7e239fd3780d5c75cbbfdc613a49ac5f.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/e213c403cf9a29da98d1db6d1feea3e5.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/e61d34e41519099a85914f3d2b740c2b.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ee03dec830bdf715b9b621081a2fa7fa.unity3d

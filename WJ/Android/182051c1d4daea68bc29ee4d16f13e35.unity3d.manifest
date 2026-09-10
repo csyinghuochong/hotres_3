@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1640030189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77ddb15af3cb63161130e8e6c9b0f322
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c3e863c48f2dc4e1c2cd9002f7db620
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 77ddb15af3cb63161130e8e6c9b0f322
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Zoo/Cute Zoo 2/FBX/Owl.fbx
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1cc9b721b2dc2326c59aa51385ad29e8.unity3d

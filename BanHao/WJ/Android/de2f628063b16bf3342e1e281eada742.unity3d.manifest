@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1514090247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc013222af09e109e19d6dd49b73e942
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fc013222af09e109e19d6dd49b73e942
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/Material/Fire.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/0cb7a5a4bcd02d8923a787df5ac1b866.unity3d

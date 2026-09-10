@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1611317631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5715f780b3c19e03ad0d6488ad729c2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5715f780b3c19e03ad0d6488ad729c2f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/environment_common_huopeng_06_01.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7c6f1c573aaed25be4797c85a202fdc8.unity3d

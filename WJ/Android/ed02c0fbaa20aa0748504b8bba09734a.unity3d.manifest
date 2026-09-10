@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1835652948
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 696a6ad2d346139cd0f7143928c2d54d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 696a6ad2d346139cd0f7143928c2d54d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Wheat_01_AlbedoTransparency.png
+Dependencies: []

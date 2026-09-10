@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2728171423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c70788769f1431fa0b542f2f1b2d1220
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c70788769f1431fa0b542f2f1b2d1220
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Trajectory_Flame.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/6a196b2fd5fc776322e02287d6943aca.unity3d

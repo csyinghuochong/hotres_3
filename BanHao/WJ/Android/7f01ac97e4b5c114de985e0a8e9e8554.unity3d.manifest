@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 786645787
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f680ab076b1f672582121e0fa5f3eff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 88f4053155d2c8e8bdeb16c00867b658
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8f680ab076b1f672582121e0fa5f3eff
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/Tx_Rock01.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/add08143bc693673af7418e2f6408bca.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/bd0be3b4f82a53e2c28c112f0a8f67ad.unity3d

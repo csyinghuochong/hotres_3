@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2232284486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f500c5e178556a4f5d2f40c4cd28dc49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f500c5e178556a4f5d2f40c4cd28dc49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Material/Eff_Skill_HuoChong_04.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/9f0bc768450f20b064ccc48eb44e67bf.unity3d

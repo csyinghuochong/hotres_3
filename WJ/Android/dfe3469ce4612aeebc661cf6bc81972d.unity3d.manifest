@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2248708795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9d82972eba6297e7881e49116bcbd42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d9d82972eba6297e7881e49116bcbd42
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/LaserBeams/LaserBeam02.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2917759799
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6702c661258a5e2bd16cf5e3e6186b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c6702c661258a5e2bd16cf5e3e6186b7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/TerrainTexture/caOut_Hub_Inn_Bricks_Sand.jpg
+Dependencies: []

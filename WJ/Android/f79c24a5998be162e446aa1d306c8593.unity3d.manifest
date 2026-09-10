@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2976353471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7338346e73ebc7e3717ea36acbcb2e99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce024ef2a058417e9b433cc5ad96b59
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7338346e73ebc7e3717ea36acbcb2e99
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_HuoChong_1.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0f3251f1da70571962c91db20fa3f51f.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0fbf8525701fec04e57430a1f7191d87.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/253707db24ba9cd0914eebc5182e1adf.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/345bc438202bffd7ed86534638fbefd8.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/de04d499408a7f1d9761eac05fa50c78.unity3d

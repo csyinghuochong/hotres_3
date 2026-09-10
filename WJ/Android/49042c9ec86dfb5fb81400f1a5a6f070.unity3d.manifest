@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1715266431
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ceee820ae1aeb4f6d4a3e8f95ba14fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3ceee820ae1aeb4f6d4a3e8f95ba14fa
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Animator/72004011.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/4c3d9561b53469fa227f3967b0eb8a69.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/60e12f206dfcfd80ef22419f4c9c647c.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7bf96c9bb2e2edf11a58c9e0583ba005.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/882546420b0d54bb4e39bf387316b2f7.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/cf540911c2b1cea3f1683234663d596e.unity3d

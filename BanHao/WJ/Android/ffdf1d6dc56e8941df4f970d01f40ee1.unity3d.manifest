@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 907020352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3d200d382e00872fc74644ace6c556b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d3d200d382e00872fc74644ace6c556b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Materials/Point12cg.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/773a8fbff00e1a08c0f6509e5603b051.unity3d

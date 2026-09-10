@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2422934869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04b63e7602be94b7bb26877e8559b991
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 04b63e7602be94b7bb26877e8559b991
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/LifeShieldConfigCategory.bytes
+Dependencies: []

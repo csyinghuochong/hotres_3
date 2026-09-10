@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1952182480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7bd11f33cbcb48d536ec464bd622be91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7bd11f33cbcb48d536ec464bd622be91
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectResources/Effects/Materials/E3D-Loop4-67-bh3-ase-urp.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1e214e719621171ac4c54fd8ea893706.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3e9daf718da4f57cfdc4876e33031634.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/4c88284c61b1142abe7e678f3872ed2e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/97b1e3d7e9f61c28b353306eb2a7160c.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 100415953
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 816f7cfaa67b81a82cbed46450442041
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 816f7cfaa67b81a82cbed46450442041
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Shield_Floor.png
+Dependencies: []

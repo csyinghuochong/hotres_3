@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 844635926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e1e82060e47db1741ab97dd1166f8cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7e1e82060e47db1741ab97dd1166f8cd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Models/Plants_Grass_F1.FBX
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a6820e5c0bd1a93a5bbb0d014846da7f.unity3d

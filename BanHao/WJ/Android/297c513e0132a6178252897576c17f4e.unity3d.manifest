@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 817733890
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ab823015f42dd1c6b52f72996ca1d9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2ab823015f42dd1c6b52f72996ca1d9d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/Materials/104000_zhs_equ_d_512.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/dfd127f2da19b82340bd2f335530e1cf.unity3d

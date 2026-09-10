@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 760851595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f65dd2a4c549ea5558d57446700a53d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d51cbaa249c2deb056f15533c97ca7bf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0f65dd2a4c549ea5558d57446700a53d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/objectB/scene/build/stsm_build_diaoxiang_001.FBX
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/05c99a5d46c3318686955f2ad3ac30b5.unity3d

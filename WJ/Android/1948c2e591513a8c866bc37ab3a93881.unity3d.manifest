@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2399596133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9187d8e0c61f9bfc5d8fd1e919bb2d02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 85a59cdffac07dc03f12df26532a1ddb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9187d8e0c61f9bfc5d8fd1e919bb2d02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Buff_ShiXue.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d

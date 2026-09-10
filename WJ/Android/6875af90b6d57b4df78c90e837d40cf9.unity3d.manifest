@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4095781551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b66858d6e779f1b34841f461c7b4aad2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b66858d6e779f1b34841f461c7b4aad2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Materials-E3D/E3D-Point118-33.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/d069f6b10aa4ab865a4b82ae120ffb90.unity3d

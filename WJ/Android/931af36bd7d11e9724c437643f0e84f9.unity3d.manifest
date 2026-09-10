@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1769375351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad3a4cea0c44b0c4f55c3d19ce8e588b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ad3a4cea0c44b0c4f55c3d19ce8e588b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-Ground-Blast-Violet2.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/efb49acd984d6fd8cb5f83b855e4c7de.unity3d

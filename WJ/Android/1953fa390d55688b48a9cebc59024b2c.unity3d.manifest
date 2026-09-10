@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 165821450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 729777be31ea46b386d28e6d3df76fbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 729777be31ea46b386d28e6d3df76fbe
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Square04_MobAdd.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e0ddb7a944e0735509d95a271fee971b.unity3d

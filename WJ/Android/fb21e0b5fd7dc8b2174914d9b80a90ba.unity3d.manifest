@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 997984929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9901799335cf7d50100d7170d8318dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c9901799335cf7d50100d7170d8318dc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_453.png
+Dependencies: []

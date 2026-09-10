@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2302093319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59c8ffea60f530536b7bcb76b33a1ee4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 59c8ffea60f530536b7bcb76b33a1ee4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Other/Warp/One-handQuicken_Light.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/74f347112e73a8941a4d7234031b27bb.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1446095364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18eac8c40c46ae50c3b078b060fbcb69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 18eac8c40c46ae50c3b078b060fbcb69
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Animations/TrailsSpirtalV1.anim
+Dependencies: []

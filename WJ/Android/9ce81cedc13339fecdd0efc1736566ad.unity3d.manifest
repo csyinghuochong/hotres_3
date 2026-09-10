@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 947835509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 860b153f550560ed50bf3060228e3356
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0e5d512d53c80c8fe7582c1b6ea86c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 860b153f550560ed50bf3060228e3356
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Toon_RTS/Elves/animation/Cavalry_Archer/ELF_cavalry_archer_02_walk.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5affec7cc60669c0bee84783759237e8.unity3d

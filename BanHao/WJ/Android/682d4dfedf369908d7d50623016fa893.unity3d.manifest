@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 813662532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4e9d525f86f79128de8190c43157cbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 88f4053155d2c8e8bdeb16c00867b658
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d4e9d525f86f79128de8190c43157cbf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_JingTi/Crystal1.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/32bffce44f8100c99af57380c554b323.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/8d592edd0b76f4d294f78f8c7ad50b22.unity3d

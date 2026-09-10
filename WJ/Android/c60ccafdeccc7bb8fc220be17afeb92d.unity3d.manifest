@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4088695382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88f2f050e406c3e3a7cf13edde185f11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 88f2f050e406c3e3a7cf13edde185f11
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Ice/Boss_LangShouLing.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/18c3fe2b607ed9b89d6044ebdabe548c.unity3d

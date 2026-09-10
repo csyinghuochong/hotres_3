@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2338276088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 205aa2ebd915a9606d1ce48bf94ae4e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 205aa2ebd915a9606d1ce48bf94ae4e4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Soft_Smoke.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/84634a3d283d970573eec63ec59a2e82.unity3d

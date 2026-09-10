@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 69705537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e673fd5ef75d007a4a19c2a6209421f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e673fd5ef75d007a4a19c2a6209421f6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/NPC/NPC_AnDi/NPC_Town_male_02.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5b588372079ff4916e1ab5efb6d9b1fb.unity3d

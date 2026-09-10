@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 914258185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df1c0b6453c428480ab5bead954a4038
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: df1c0b6453c428480ab5bead954a4038
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/spikyFalloffLightbeam.png
+Dependencies: []

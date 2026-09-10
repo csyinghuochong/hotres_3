@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3226765050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0aa9e39a2221fdb59a4fcc26659d258b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0aa9e39a2221fdb59a4fcc26659d258b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_wuti_00053_001_C.tga
+Dependencies: []

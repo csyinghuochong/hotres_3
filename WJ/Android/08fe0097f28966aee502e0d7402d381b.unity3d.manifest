@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1041615396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af4949e12e1cfbe467fe156ddef88391
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: af4949e12e1cfbe467fe156ddef88391
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleZhanShi/tga/Main.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d

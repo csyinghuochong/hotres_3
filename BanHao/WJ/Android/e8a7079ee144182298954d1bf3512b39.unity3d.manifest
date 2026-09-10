@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2864445638
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9718487fee1562b6d140eadbf347c1a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9718487fee1562b6d140eadbf347c1a1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/OldRes/OldNpc/AnimatorSet/NPC_XiaoGui.controller
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/6e8d3232990e71adbc848fd814da376f.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2736423125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ba182b1ff9d0fd6be455e16135df933
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8ba182b1ff9d0fd6be455e16135df933
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_windowglass.png
+Dependencies: []

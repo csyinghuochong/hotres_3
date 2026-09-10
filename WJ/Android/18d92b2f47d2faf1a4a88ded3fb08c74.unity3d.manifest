@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1131127213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b38ebeb2eac7e230b9a99f3b2c9266fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b38ebeb2eac7e230b9a99f3b2c9266fe
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_EN_5.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_648.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_98.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_6.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_488.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_298.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_EN_20.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_EN_10.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_EN_80.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_50.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_EN_1.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_EN_100.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_30.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_198.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_EN_50.png
+- Assets/Bundles/Icon/RechageIcon/UI_Image_Recharge_EN_30.png
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1372293134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aeaef9746c36f1d548459fae8aa9c243
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0d2825fdc211f55c32635af176e082c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aeaef9746c36f1d548459fae8aa9c243
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e937b0d42fca0174db85a89fe55e2739, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Buff_ChenMo.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d

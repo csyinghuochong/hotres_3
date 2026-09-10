@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4247385541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4243388b0f050316ba8563056f74e212
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4243388b0f050316ba8563056f74e212
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/KuangDong/Materials/ratlin_rogue_desert_m.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/b42cd39df09c83d0ebd3d8f742731125.unity3d

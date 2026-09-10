@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1075107331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3bf12224bad5367bb4f47b47ac0fae53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3bf12224bad5367bb4f47b47ac0fae53
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/Flare07.png
+Dependencies: []

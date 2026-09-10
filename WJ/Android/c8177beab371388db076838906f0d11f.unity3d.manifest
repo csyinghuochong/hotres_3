@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3540193343
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c94951d078d8e15fb693a9b0a9703cab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c94951d078d8e15fb693a9b0a9703cab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Button/Btn_20.png
+Dependencies: []

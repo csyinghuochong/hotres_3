@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 112572686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2fd0cdd83c92595e217982e14879d8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a2fd0cdd83c92595e217982e14879d8a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectResources/Effects/ModleEffects_Ain/E3D-Buff-Continuous-Violet-1.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0893498efc19d268f27b60908bb80cff.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7c745657c96315b023e0ae9547966832.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/882fb5b839f90c4f1eecfd71c1e84d37.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3561227619
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec3236132cce7cf119b83f7ea9b3f34e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ec3236132cce7cf119b83f7ea9b3f34e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Wheat_01_MetallicSmoothness.png
+Dependencies: []

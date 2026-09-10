@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3261567314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8396d7010d6b5535d361932e22caa047
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8396d7010d6b5535d361932e22caa047
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Textures/wave2.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1301432347
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a39b448d0798f1a1a2592aaca76b5cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1a39b448d0798f1a1a2592aaca76b5cc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/wagon.tif
+Dependencies: []

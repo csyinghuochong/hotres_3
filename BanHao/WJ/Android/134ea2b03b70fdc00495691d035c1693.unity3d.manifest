@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 839524906
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68841be282a92a8bb34f46e6ef7ccba4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 68841be282a92a8bb34f46e6ef7ccba4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3D Items - Mega Pack/Set_Items1/origin/Textures/s2_2d.tga
+Dependencies: []

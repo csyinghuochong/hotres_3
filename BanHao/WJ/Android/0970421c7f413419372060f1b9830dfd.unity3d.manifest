@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1810138760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3667f26dbdabca8611e6ffd2d7501e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d3667f26dbdabca8611e6ffd2d7501e1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/glow_00031_0001_A.png
+Dependencies: []

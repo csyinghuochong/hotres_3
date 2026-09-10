@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2700679166
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa498dc37c13aed92689fd5eed0bc1fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fa498dc37c13aed92689fd5eed0bc1fb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Epic Toon FX/Textures/grab2.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2169702646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a29cccd060e8765d4fd748c626c02794
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a29cccd060e8765d4fd748c626c02794
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_Herbal.png
+Dependencies: []

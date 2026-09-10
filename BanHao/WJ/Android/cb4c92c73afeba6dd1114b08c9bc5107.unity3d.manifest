@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2164213859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0756ccf086d6aa25ee279ee8c9e7701a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0756ccf086d6aa25ee279ee8c9e7701a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 3/Textures/Crater63.png
+Dependencies: []

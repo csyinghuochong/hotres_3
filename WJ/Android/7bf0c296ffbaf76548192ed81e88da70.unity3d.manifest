@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 61106652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30540f89e58f1745fabb6b619cc2a8da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 30540f89e58f1745fabb6b619cc2a8da
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Ring16.png
+Dependencies: []

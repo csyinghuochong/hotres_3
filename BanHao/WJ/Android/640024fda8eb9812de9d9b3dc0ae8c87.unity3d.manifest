@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1551056716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42b2aecb1a19e8153f655c49edabf5e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 42b2aecb1a19e8153f655c49edabf5e9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_Corn_01.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/b1d72f77e85092156704e4ae4f0b8e42.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/bdf7d7e6166f995df262e6c85ca5f576.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/fad373ec6fc848491b4a205f97ab98d9.unity3d

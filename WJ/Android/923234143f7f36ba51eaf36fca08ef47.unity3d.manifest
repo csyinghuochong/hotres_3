@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1050132000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57de8371cb958a125178bc8b70dbc9aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 57de8371cb958a125178bc8b70dbc9aa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/MushroomMinion/T_MushroomMinion_Body_Emissive.tga
+Dependencies: []

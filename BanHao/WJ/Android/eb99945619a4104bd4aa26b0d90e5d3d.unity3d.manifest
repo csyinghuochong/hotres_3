@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 83096437
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00a78365798ebf7a5256599ffe7aec68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 00a78365798ebf7a5256599ffe7aec68
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/environment_common_muchangban_001_03.png
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1277628215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c0ef7d27898783052ff9eda3dff5946
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2c0ef7d27898783052ff9eda3dff5946
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Spark.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a4b42f0c1644c25e6afcfb100da642bc.unity3d

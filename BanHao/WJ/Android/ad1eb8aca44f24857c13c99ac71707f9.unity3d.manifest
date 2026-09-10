@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 687791095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f25e442efd3a5ee8a6c0ee73f8da51db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f25e442efd3a5ee8a6c0ee73f8da51db
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_57.png
+Dependencies: []

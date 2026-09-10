@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3018970806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a17c25e9222f8c31d4afe68dd5560dbc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a17c25e9222f8c31d4afe68dd5560dbc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/building_Accessories_lv4.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/399f09fb4acdd8c7927a40915d54b671.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5d3696bf5b7a2f4a7231f273d88b556f.unity3d

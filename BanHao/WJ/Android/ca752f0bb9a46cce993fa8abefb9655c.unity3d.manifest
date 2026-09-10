@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2298084827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e8e2ab20af8b658d3c091da5b21c12c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1e8e2ab20af8b658d3c091da5b21c12c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/tex/101210_xmhl_npc_d_256.png
+Dependencies: []

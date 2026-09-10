@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 7736663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bc2b6635726b42c707c616a5449c11d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: da51c371cb987de4c5a6564d4db74b89
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9bc2b6635726b42c707c616a5449c11d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Holy/Animations/Angez/Anim_Angez@Move.fbx
+Dependencies: []

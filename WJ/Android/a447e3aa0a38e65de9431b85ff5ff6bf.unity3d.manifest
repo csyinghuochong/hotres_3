@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1991649613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9725b647936901a65fd167eb4af59033
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9725b647936901a65fd167eb4af59033
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/StylizedWildAnimalsPack/Textures/T_Bear_Normal.png
+Dependencies: []

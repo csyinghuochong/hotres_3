@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1518390086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c13f86c67e40d31cc45688524dfa339f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c13f86c67e40d31cc45688524dfa339f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_3/model/Materials/FB0_zhenghe01.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/bee7ea63baf8d6feb6c3d4bc5c12b732.unity3d

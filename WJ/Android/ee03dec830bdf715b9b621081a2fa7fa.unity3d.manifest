@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1103190356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d498ce3a9d42bbe795dac80c26729917
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: da51c371cb987de4c5a6564d4db74b89
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d498ce3a9d42bbe795dac80c26729917
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Forest/Animations/Rabby/Anim_Rabby_Idle.fbx
+Dependencies: []

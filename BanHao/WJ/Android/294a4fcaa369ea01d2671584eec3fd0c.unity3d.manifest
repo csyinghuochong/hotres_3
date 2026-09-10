@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3148108415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c36bb47bcf54feaa1c3ec4697e4b733
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7c36bb47bcf54feaa1c3ec4697e4b733
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/ThirdRes/GUI Pro Kit Fantasy RPG/Particles/Materials/fx_circle_line1.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7ec82ed3a08b100d52e1ec2a891300a1.unity3d

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2527239557
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c396306bde322d222ee8e6603a2b574a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e07c6e0615e63ae3c7d9413510c73dcd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c396306bde322d222ee8e6603a2b574a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_60.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/001afd417e004c43d24921c684364d7c.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/05c54fb1b12167b8cb8aeb1f230730e3.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/219fecbf3788270a782912f2d1671bd0.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/4c88284c61b1142abe7e678f3872ed2e.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/6105fccff2325b0858fccca8f2f02e41.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/63836d8161cd20bf5782872c6eaa6407.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/71a059654e43430c4382fc7477a3ea74.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/761f35491f6a4f4f9a5baa9127c09db0.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/8c19e1912c77095edf981937814266ae.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/91649f40369c99bb6fac701f46b1afaa.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/da7ee33b481aa1c0d46c848292e9e839.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/e6f4245596c34d7b336f635800eb3c7d.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/edaaf08e8beb3d9d20de8a608d167ea3.unity3d

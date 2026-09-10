@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 206664204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5841153904f0061b28001d2944db8c7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5841153904f0061b28001d2944db8c7f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Ring/E3D-Ring192-bh57-d12.tga
+Dependencies: []

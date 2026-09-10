@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2527583527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a063dd922977c8e83d6bc4ca505cdb94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a063dd922977c8e83d6bc4ca505cdb94
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleFaShi/fentiModel/texture/FaceSkin_00_00.png
+Dependencies: []

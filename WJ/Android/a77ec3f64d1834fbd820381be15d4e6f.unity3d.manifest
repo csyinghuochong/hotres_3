@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3938627159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d621ae1c75e566af10542aeb1adbe05b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d621ae1c75e566af10542aeb1adbe05b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/starAdd.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/fa23793253598bda850e187ddfa16b53.unity3d

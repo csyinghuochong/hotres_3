@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1172582970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66d3103f36fef4cdd97cc5c677390284
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4b57b1a56d6b76d200651994ae0863
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 66d3103f36fef4cdd97cc5c677390284
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/40007Settings.lighting
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3518344552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f255ed574eb4567555af193e7bf2a0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4f255ed574eb4567555af193e7bf2a0f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Ring/E3D-Ring188-bh3.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2994875065
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97d498ce41122528703c91ed50b3fe70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 97d498ce41122528703c91ed50b3fe70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SkyBox/CartoonSkybox2/CartoonSkybox2.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/01f8ca24f2f332fd3daebba073411459.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1cd2030cc8a13caef30bfaf9e88af8be.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/4daf4696e1bef65028c8582a899d5191.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/50ef439457e9d970617f608d50da14a9.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/8a30640b3f651baf6d13865c1c062d48.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/cc063d9078c4282b224a16d385128534.unity3d

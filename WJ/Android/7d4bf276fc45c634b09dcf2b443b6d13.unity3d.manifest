@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2630880871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2265eff99ae99ee60c46be04a4f9507
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a2265eff99ae99ee60c46be04a4f9507
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/StylizedProjectilePack1/textures/glowSparks.psd
+Dependencies: []

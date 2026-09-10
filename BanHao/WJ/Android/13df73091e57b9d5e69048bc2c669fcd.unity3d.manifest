@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 731346637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42ed6aa9fe9ac340aef13cdf975fecc6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c3e863c48f2dc4e1c2cd9002f7db620
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 42ed6aa9fe9ac340aef13cdf975fecc6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Pet/Cute Pet/FBX/TypeB/Horse.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/027a329febb58d60e1079e50019dac7d.unity3d

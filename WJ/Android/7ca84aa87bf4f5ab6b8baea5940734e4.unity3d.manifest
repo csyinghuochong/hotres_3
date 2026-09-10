@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3398409631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb09b53c96f3bef40c6ece4094ce96dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bb09b53c96f3bef40c6ece4094ce96dc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Other/Materials/34be2599.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/99091a959b931e3f84cd572476ec5a9d.unity3d

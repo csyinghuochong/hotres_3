@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3334332209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7520d445a063df9fcdf89599fbbab8bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce1fc08df2f758d6d856448290aaf38c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7520d445a063df9fcdf89599fbbab8bf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillHitEffect/Eff_Hit_Guang_1.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/08afaac9b4e9c132ec67ab2be34d0a12.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/21d61cbda988007716a4826d04a2454d.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/43946489ac5ad622b28773fe2cdec63f.unity3d

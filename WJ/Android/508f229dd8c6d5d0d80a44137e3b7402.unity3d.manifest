@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 221831087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d84cce8910974bd51539cd2a1c661cfe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f98f36a9ac66f38ea1db0bffb7fc7171
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d84cce8910974bd51539cd2a1c661cfe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 275fc5543f4e43c48a8b9ce3c3b559e0, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Particle System.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/8c04be82bdd58db14825abe02f4171b8.unity3d

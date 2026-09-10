@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1870328869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddddfd4ca3f71d03159c2bd104273df2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff245b4c0078243060531a03e033561c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ddddfd4ca3f71d03159c2bd104273df2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/LowPolyFantasyWizard/Prefabs/Wizard.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/0ad9ec9cc576f7a77f629626687b2e58.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/2beb5277a3dc5c936616174c1fc818db.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3d08a21e93719409b5d2cd93c843ffeb.unity3d

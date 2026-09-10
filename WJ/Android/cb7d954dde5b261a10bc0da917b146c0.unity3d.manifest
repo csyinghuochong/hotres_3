@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1831878712
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 634934bafce188200632bace491980bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 634934bafce188200632bace491980bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Materials/plant_vege_061_01.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/515ab03e2ba263e91a0a4e7d93ef434e.unity3d

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1508375238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56f39ba90c743b31340507fa8a2beca4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc932ce272096032814d7e3056fc98a9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 56f39ba90c743b31340507fa8a2beca4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_Fireball_11.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/27245e712c76543f8c190183963f61ad.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3591b595b2a474ca0b669027b40ebb2d.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/380fd3a465e04dec70e9788c74f82d78.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3c0b71cb713a4a82504909d5af72bbd5.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/776eea7e323129c03f9df876bff14069.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/89baae4f9d7b81498fefad56f5d0b9dc.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/94de60701d58bb43510bf146fd01b439.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a228f8f37fc5292bdbcb2adf992eeabe.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/b940b708796a66ede448c211e0457618.unity3d

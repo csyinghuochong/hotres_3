@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 173290750
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a54a99a65c5df8860a511f10c85ff920
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a54a99a65c5df8860a511f10c85ff920
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Materials/Fire Pig/T_Fire_Pig_B.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/79556c9dce2898219c5ad5680ccfa4bd.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7b32e8137683dc89ccf408087d9f4a9e.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7ef70646b2b8aef4b653811f8ed7361e.unity3d

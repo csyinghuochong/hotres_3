@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2587082790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e090cc36f02466b0d59847799f7f5434
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e090cc36f02466b0d59847799f7f5434
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/yanshi_C.tga
+Dependencies: []

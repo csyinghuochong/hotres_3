@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2686887884
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91e03fccbb45f24d5d999e2315ccce6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 91e03fccbb45f24d5d999e2315ccce6c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/Noise1.png
+Dependencies: []

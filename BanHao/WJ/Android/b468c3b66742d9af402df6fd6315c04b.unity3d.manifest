@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3078952705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c62ce94250fa3a0f56784dd2c61ae190
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c62ce94250fa3a0f56784dd2c61ae190
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Fire Demon/Materials/FX-Heart Orb.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/14488765f371a2a94278751fef32cef4.unity3d

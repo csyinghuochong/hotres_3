@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2182878618
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ed33ec6e4303ea7ea58f5886a4f81cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ed33ec6e4303ea7ea58f5886a4f81cf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/electric02.png
+Dependencies: []

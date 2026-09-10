@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3397487859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9ace5b1984aff41f68464021efc9572
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0e5d512d53c80c8fe7582c1b6ea86c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f9ace5b1984aff41f68464021efc9572
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Warrior/Suriyun/Animations/Animations_v3/AnimSD@Walk.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/063b1d375fc60f398487df1d2aefa388.unity3d

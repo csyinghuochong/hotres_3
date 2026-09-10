@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2631591499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 130ae2c4f00e1fb1d7a636c3ea31ff41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 130ae2c4f00e1fb1d7a636c3ea31ff41
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/TalentConfigCategory.bytes
+Dependencies: []

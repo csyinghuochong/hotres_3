@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3353931963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2a0dba82e8807c805be6b2e574ae1db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b2a0dba82e8807c805be6b2e574ae1db
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/Click/Direction_Circle.png
+Dependencies: []

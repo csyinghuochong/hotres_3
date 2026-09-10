@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2401790643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5386a72749a709156e2f61a08f6f7457
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5386a72749a709156e2f61a08f6f7457
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/Noise/Noise01.png
+Dependencies: []

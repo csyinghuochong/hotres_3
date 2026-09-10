@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2720315716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6eb18dbc5fe1cbc2afb4d9e9a83f1121
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6eb18dbc5fe1cbc2afb4d9e9a83f1121
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-D014.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/362502aaea43ce382eb9670359229382.unity3d

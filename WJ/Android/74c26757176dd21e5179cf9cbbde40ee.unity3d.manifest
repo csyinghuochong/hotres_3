@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2841148216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a5859d0b39b0a9321ba394ecfc82e56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2a5859d0b39b0a9321ba394ecfc82e56
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_RanLiaoPin/Tx_Potion.jpg
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1884788177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41891b10979f6cddebf405e91e0da041
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 41891b10979f6cddebf405e91e0da041
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/environment_common_kuangkengwall_002_01.png
+Dependencies: []

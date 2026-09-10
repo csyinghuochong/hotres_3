@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1751777504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8d688e1d7847806ed4b416e04c0deb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5fe413de19538e97ea9f0db1ce9350f8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b8d688e1d7847806ed4b416e04c0deb9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Model-E3D/E3D-Cylinder-Spread48.fbx
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2370976169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ba00e62c5e35ee877431e1d2412e1bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9ba00e62c5e35ee877431e1d2412e1bf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/MonstersFlower/Material/MonstersFlower/MonsterflowerC2.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0b99c374687b2498bad791c3a68bbb76.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/79556c9dce2898219c5ad5680ccfa4bd.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7ef70646b2b8aef4b653811f8ed7361e.unity3d

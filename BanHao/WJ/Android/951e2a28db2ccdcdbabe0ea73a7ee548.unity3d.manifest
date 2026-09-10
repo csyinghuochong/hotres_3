@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3466219646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d13a3da7e492df640f745e0932765fbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c6d051320e2e6e355cbdc3a3345aa55c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d13a3da7e492df640f745e0932765fbf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 338e9578d1797374b858ead231938d29, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/ScenceEffect/Effect_Complate.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/8c1741ae4da73d6768fd4c8248672456.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/915ff8811ff818b34ff3b2c7212ff54d.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/cd254e319c64ff2dd64b468abbd9cd2c.unity3d

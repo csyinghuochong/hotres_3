@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 959190865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c43d4e7a61403a9fa6d2952fdc3b7bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8c43d4e7a61403a9fa6d2952fdc3b7bf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_456.png
+Dependencies: []

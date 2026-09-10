@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2377670247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eda86dffa1ca38c86201af328c0d7409
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eda86dffa1ca38c86201af328c0d7409
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Textures/Buildings_1.jpg
+Dependencies: []

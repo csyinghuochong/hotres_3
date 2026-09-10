@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1247208768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2e7d4f03bf256a0b892100186ecf96a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e2e7d4f03bf256a0b892100186ecf96a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_447.png
+Dependencies: []

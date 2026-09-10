@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1359649395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 143904c1124eeef4023178d57c661c11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 143904c1124eeef4023178d57c661c11
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Pet/Animations_Cute_Animals/TypeB/TypeB.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/29270c8aceb34e5483be471f1381e5a1.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/4d6324d8c9ad97b4629faefca8e98620.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5ed1a47616a4ebbca51d70fdc6bf5073.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/63861f363e6f81750aa704d21011b782.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/7e1f756ea2b1dcf9d27fc10c0bf9b470.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/b060192dc8f76ced6a7af18e2887bd3b.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/c6ad4ceacf1b1de21d8fad23abd2377a.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/d6e87874c0bc0f5df2364434aa3a9eb8.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e11818bcaf863fec98714a9213164284.unity3d

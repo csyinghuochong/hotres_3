@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2268823994
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15982c74debd3ff0d3ab1ed41d8ebdf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 15982c74debd3ff0d3ab1ed41d8ebdf3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Object/E3D-Object156-bh4.png
+Dependencies: []

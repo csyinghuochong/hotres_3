@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2028291103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ee37ca574b30a2afda30c1d1f63ce45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7ee37ca574b30a2afda30c1d1f63ce45
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/Gradient12.png
+Dependencies: []

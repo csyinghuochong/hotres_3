@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1813562683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ef049faad3007c1cf0f5b3f3c4e97c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2ef049faad3007c1cf0f5b3f3c4e97c5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/CritterPack/AnimalModels/frog_green.jpg
+Dependencies: []

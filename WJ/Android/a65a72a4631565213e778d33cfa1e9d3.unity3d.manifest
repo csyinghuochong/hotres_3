@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 415658039
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2b2b6fd786ad31e0b1dc99cf0905617
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f2b2b6fd786ad31e0b1dc99cf0905617
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_glow_xin_guangyun_00001_A.png
+Dependencies: []

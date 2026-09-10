@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2299622895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5aa370ba4752edab8b63fd06ae377794
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1f1e2be0af83999f0292840aee318e51
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5aa370ba4752edab8b63fd06ae377794
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/UI/Common/UIModelDynamic.prefab
+Dependencies: []

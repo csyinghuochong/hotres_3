@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3024880790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7b6e539533586a3d841933025f2f3fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a7b6e539533586a3d841933025f2f3fe
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Direction/E3D-Direction352-bh3.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2707500649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d2852ab6c42c5b387c72aade66c27ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1d2852ab6c42c5b387c72aade66c27ac
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/xulie_yan100_3.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1ad23aafa1c02a5fdf1657a070b25f78.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/6ccd0a9777d3d716d02daecc56622a24.unity3d

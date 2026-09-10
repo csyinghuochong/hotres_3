@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2302330473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72e53b51fcb39ccd147c06625b8fe5cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 72e53b51fcb39ccd147c06625b8fe5cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Rainbow/Rainbow.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/0b1a605a73ecef90c580cbdfcfd6b146.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/87cb632637d456dc6d805236e175ca3f.unity3d

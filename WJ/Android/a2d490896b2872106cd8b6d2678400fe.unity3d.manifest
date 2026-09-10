@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3596662547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc2bed321bd6429a8b0f5fbdb6eb47f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bc2bed321bd6429a8b0f5fbdb6eb47f3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/AnimatorSet/NPC_FuHua.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/128395e31b48e68d8463f75f9a2c27cb.unity3d

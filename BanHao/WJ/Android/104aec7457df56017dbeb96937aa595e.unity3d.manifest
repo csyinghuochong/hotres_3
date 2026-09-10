@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3940824896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f244b7933a7da69a320f02ae18d3d875
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f244b7933a7da69a320f02ae18d3d875
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/Flame01.PNG
+Dependencies: []

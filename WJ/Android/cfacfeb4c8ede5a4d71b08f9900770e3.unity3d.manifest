@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1311723383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b6d8a2e56342051e37d7a9d063c4429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f9fba26cbb38215f317d1fd6b1954a0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5b6d8a2e56342051e37d7a9d063c4429
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy Heroes Pack 01/Elven Archer/FBX/Bow.FBX
+Dependencies: []

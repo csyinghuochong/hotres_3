@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2128304629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a88c8a468667775e8965d22325c491d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c12edb9a68e2976533ebef58592bc24
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6a88c8a468667775e8965d22325c491d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Component/MainRoleCamera.prefab
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2463186965
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4316668338bab6269e9753dc2a6ad95f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4316668338bab6269e9753dc2a6ad95f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/sparkle_set.png
+Dependencies: []

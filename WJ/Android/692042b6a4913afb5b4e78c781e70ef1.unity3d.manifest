@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4135822170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e846f411bd00d5b2f19d80521375f0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4e846f411bd00d5b2f19d80521375f0c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/ring09.png
+Dependencies: []

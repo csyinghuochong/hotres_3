@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 716882952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19f5fccfd053308679f0407c86b0b346
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 19f5fccfd053308679f0407c86b0b346
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/NPC/Old/FBX/UseModel/RenWuDaShi.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/46b2c1ef88fe18796d748a5f2e20e6aa.unity3d

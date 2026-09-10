@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3106971047
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2eb39bad9b0a547cb2c44aca41ba340
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c2eb39bad9b0a547cb2c44aca41ba340
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_01/Skill_Sword/Texture/Bom.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1332767683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4f0973ba026b6d53d408e5ef4458c98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f4f0973ba026b6d53d408e5ef4458c98
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/StylizedWildAnimalsPack/Materials/PC/M_Bear_White.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/00907c555faf0e23c6b2fb3c11aacaab.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a447e3aa0a38e65de9431b85ff5ff6bf.unity3d

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 17759099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c096da5d2a156f4ac4d1fe46b0a178b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c4a741bc998ac9508c2cbb90099a4d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3c096da5d2a156f4ac4d1fe46b0a178b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Monsters Ultimate Pack 02 Cute Series/Wolf Cute Series/FBX/Wolf@Pounce
+  Attack In Place.FBX
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 690780111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f1274d304d51d7fcab3398ad93d11c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0f1274d304d51d7fcab3398ad93d11c7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
+  Ice Vol.1/Models/ice_03.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/b044a9f7076ccd7bd1a4f0056661de5d.unity3d

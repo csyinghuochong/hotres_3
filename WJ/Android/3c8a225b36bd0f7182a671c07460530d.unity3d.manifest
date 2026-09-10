@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1637525185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0798ef13c837ff44aa7fd16556861892
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0798ef13c837ff44aa7fd16556861892
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/WuQi/Effects/Material/SlashDust02.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a8da21bedb9e66501ec1f249ccf2020c.unity3d

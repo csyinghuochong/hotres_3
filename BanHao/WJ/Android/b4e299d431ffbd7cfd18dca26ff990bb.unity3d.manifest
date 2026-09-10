@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1017858405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 790a1eccf0943a228493e941963c5aca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 790a1eccf0943a228493e941963c5aca
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/Gradients/Gradient_blue.PNG
+Dependencies: []

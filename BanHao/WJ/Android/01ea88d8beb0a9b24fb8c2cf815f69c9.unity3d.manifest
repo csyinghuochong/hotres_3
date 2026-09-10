@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1662927541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d14ebd1d6ba3a1541df8d2cacd7faf2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6d14ebd1d6ba3a1541df8d2cacd7faf2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Building/Model/Tent1.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/73f2317093383dfbdec3b0326ff0bf67.unity3d

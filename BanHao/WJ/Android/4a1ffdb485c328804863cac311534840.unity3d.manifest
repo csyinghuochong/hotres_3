@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 195155992
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39bd23b9ccd780e5e47ba6c3f2fc82b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 39bd23b9ccd780e5e47ba6c3f2fc82b3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3D Items - Mega Pack/origin/Models/Materials/bow4.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/32d6c3b37de50749a0589f421abb0656.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 625129300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12f243d28814e8ac91183835e0c54f3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 12f243d28814e8ac91183835e0c54f3c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Sequence165.png
+Dependencies: []

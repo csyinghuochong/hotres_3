@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1792675986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f769cfb641157d061ba255828b7f60c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52d1cf33f0ddacda9698410fe4959a8b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7f769cfb641157d061ba255828b7f60c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleFaShi/Animtor/Girl_Speak.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c4ff8f1f191fcc405817f6ab87c3aa44.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3102219488
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2f8e754f652bc4da3ce9d1eca5d0089
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c2f8e754f652bc4da3ce9d1eca5d0089
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Point145.png
+Dependencies: []

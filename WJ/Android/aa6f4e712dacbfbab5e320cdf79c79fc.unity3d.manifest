@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1242633105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23b1d1d22ebd5b67f022b1f29ea20454
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 23b1d1d22ebd5b67f022b1f29ea20454
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/Click/Materials/DirectionRedCircle.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0a67fc6348b4aad5c0096b973a1884f6.unity3d

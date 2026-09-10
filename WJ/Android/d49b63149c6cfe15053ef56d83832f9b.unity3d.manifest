@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2429889903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 915b7ecad5de5369c42692e6a9cef7cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 915b7ecad5de5369c42692e6a9cef7cf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/TerrGuang_2.mat
+Dependencies: []

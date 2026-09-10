@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2429152168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9204f23f14b1acb9e33bde20792cd46d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9204f23f14b1acb9e33bde20792cd46d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_1A.png
+Dependencies: []

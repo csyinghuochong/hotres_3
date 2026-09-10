@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3372446439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88ed2901364762d8e3ab001dfd9ecc9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 88ed2901364762d8e3ab001dfd9ecc9b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/BH/Effect/Animations/Skill-1053-yidonglongjuanfeng-002.anim
+Dependencies: []

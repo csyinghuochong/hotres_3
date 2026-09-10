@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1575498815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43e36dd6fc9e55c1fd1b0ff44c1f0316
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c3e863c48f2dc4e1c2cd9002f7db620
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 43e36dd6fc9e55c1fd1b0ff44c1f0316
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3D Items - Mega Pack/origin/Models/Bow06.fbx
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/755466dec4f2c636c2de4f583407011b.unity3d

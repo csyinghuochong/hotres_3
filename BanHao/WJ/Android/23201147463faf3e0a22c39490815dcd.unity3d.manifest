@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3673817242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 749bfe3442bb5b7fe5d7824e3db6e1ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3909ceb444f686071526043205326e38
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 749bfe3442bb5b7fe5d7824e3db6e1ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/ScenceEffect/Eff_AutoPath.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/32ae72b2d3b3ab2b1ec7d5a5db78593a.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/9ea97a6a41cbb04757aa2bd74003c5b7.unity3d

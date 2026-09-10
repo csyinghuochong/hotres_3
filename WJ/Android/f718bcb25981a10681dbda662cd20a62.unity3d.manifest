@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4232733232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdefba9bbe878d4cd9ee4635046d82c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cdefba9bbe878d4cd9ee4635046d82c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Sequence157-1.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a5f8cb7e49e24985afa5cbf7dcf1b9c9.unity3d

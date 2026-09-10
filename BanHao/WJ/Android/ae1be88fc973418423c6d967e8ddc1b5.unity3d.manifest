@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2995372075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ec374b1a65b468e3ef68932e45905e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ec374b1a65b468e3ef68932e45905e8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/LowPolyFantasyWizard/Textures/Wizard_MetallicSmoothness.png
+Dependencies: []

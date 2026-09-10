@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3756200208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 432c76f0ec56a30e9d03460f3abe03fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58bd79d46dc5689e4c72b81c93ffafbc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 432c76f0ec56a30e9d03460f3abe03fc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Monster/DorrWay_1.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/6986f903b6ea7598709408e3fd1b697a.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/9c407be29bfd9eac05ae4c82d6c78370.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/b3a538d976c04dd1f2c115f43b715f9e.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e4f7fdf7057fb2a49274a7b48d475fcd.unity3d

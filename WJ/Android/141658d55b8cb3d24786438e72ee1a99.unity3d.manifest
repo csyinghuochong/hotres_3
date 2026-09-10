@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3082353217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f295fe8897a04d4c19eb3cc98c2fbad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3f295fe8897a04d4c19eb3cc98c2fbad
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/NPC/Old/FBX/Materials/Standard_20.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/9d5f30fd63a3056ec945610c8d162834.unity3d

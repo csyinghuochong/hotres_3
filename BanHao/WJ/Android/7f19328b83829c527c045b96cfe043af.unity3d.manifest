@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4217383275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1077c081efaf9a239d65bb68f4f7589
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fde6811ecc759911b6d3426a16e53445
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e1077c081efaf9a239d65bb68f4f7589
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Fire Dragon/Legacy/Animations/Fire Dragon@ProjectileAttack.FBX
+Dependencies: []

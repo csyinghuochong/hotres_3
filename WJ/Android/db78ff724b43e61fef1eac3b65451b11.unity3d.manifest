@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1506047915
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2ae3180c02fb2fd9b2cdf65cb62db98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a2ae3180c02fb2fd9b2cdf65cb62db98
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/Fight_1.mp3
+Dependencies: []

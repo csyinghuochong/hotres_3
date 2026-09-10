@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3594873233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9efb1c1af6645a9b21d361b743a5239
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c9efb1c1af6645a9b21d361b743a5239
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/GameUI/Old/Icon/UI_Icon_37.png
+Dependencies: []

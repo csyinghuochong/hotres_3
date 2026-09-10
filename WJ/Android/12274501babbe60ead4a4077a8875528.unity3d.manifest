@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1389355306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b582b743761c983e56294917bc362956
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b582b743761c983e56294917bc362956
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/You Xi/Ye Wai Chang Jing/Psd/dixing_01.png
+Dependencies: []

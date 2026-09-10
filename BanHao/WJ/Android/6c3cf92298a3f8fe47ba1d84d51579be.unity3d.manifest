@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2102386784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cfbe16ee5a0093e5fee69d3be76ff31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2cfbe16ee5a0093e5fee69d3be76ff31
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Prop_Cargo1.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ffb85a455b820e6e6b78a3fa66717ee4.unity3d

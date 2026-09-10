@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 941293835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e4bfa63ce8f6a829e710af2455b7e7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2e4bfa63ce8f6a829e710af2455b7e7f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Point/E3D-Point263-bh4.tga
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 748290596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b10173fc126ad70def5d641355ba2f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0b10173fc126ad70def5d641355ba2f5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/line03.png
+Dependencies: []

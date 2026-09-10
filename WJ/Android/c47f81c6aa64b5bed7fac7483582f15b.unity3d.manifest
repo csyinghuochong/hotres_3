@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4166759925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8993f7c4d93d711bfd95b9ec90578c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 316162263003d3ca5b3ffec5afe24edf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c8993f7c4d93d711bfd95b9ec90578c7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/Fashion/Hero_toufa_lvmu.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/0458fc11ee74a17380284b0c46fbc14a.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/684477dd4d2b3cd1246e4878d563b691.unity3d

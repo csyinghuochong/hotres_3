@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2247435709
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75880b62eae73e3b2047466bcd86392b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 75880b62eae73e3b2047466bcd86392b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Ice/Texture/MIRKA1.png
+Dependencies: []

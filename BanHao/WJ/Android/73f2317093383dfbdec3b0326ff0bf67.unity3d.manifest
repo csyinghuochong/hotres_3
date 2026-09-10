@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1503070699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38f054e97ce6fdb89f228011c0391c49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 38f054e97ce6fdb89f228011c0391c49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Building/Model/Materials/tent_stump.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/2978c92fceff69a152b49b14d9dfcb31.unity3d

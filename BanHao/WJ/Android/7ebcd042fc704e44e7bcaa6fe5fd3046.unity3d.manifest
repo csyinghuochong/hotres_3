@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4052084706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2476341c0a73b6a4acecd30405880ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e2476341c0a73b6a4acecd30405880ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/ForestSpirit/T_ForestSpirit_Body_Normal.tga
+Dependencies: []

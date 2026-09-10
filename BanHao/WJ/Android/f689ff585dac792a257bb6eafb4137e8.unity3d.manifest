@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2002017374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46993901be49906c33c42caa1a911ae5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e07c6e0615e63ae3c7d9413510c73dcd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 46993901be49906c33c42caa1a911ae5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Buff_AddAct.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/0afcc0221190b68dce151d6e463a7846.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/5be431bbc6ce953875b5fefc454c1dbf.unity3d

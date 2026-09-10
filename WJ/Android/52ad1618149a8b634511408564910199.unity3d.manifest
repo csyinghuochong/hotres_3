@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1675600461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6aafb272cfdf80fc177788843146ec38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6aafb272cfdf80fc177788843146ec38
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillZhiShi/Effect/Textures/item/Materials/item_027_2.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/40eb507ac1f03b3db96d488d9e2dd6f5.unity3d

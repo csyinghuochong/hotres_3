@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 92569850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 784d7b14d71bd27405a0e15fdf524e94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 784d7b14d71bd27405a0e15fdf524e94
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/FashionConfigCategory.bytes
+Dependencies: []

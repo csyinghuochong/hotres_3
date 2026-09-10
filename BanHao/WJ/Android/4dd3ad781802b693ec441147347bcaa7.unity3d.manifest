@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2815490769
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 894b6100f29f1da3a13bc93b5b96b2ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 894b6100f29f1da3a13bc93b5b96b2ac
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Materials/Distortion.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/211a14994807b1fdbae8a24cba60f90a.unity3d

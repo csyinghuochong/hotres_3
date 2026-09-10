@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2350035160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2e6576f8dd7c96d89b20d57cbc4ebaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e07c6e0615e63ae3c7d9413510c73dcd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f2e6576f8dd7c96d89b20d57cbc4ebaf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Rose_Heal.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/6986f903b6ea7598709408e3fd1b697a.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/9c407be29bfd9eac05ae4c82d6c78370.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/b3a538d976c04dd1f2c115f43b715f9e.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/e4f7fdf7057fb2a49274a7b48d475fcd.unity3d

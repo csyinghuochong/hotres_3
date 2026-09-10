@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1923781620
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fcf2d54100faf41cba6cd4e1d8936f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7fcf2d54100faf41cba6cd4e1d8936f5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Materials-E3D/E3D-Sequence130-bh6.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ccad84cb4f8c31ad0f8d7ae811d5169e.unity3d

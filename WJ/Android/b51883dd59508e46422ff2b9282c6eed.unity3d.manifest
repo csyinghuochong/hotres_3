@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3600047058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f563de641d20bf16d507266868dcf429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f563de641d20bf16d507266868dcf429
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Tentacle Monster/Textures/Tentacle Monster-Yellow.tga
+Dependencies: []

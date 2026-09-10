@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2425514859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe54aa1987ba3527d36116cd1401046e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22c7f70bd3e2de7057decfa752510fd2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fe54aa1987ba3527d36116cd1401046e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/UIEffect/Effect_ComTask.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/17912dc84836b76c19be67a204a58d71.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/4169bed4f58861eb43b0704cd7ed227c.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/b6a5a623ab9fede55b530482ae788e73.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/f5899c3fa18c6866cc9b0b1f47a30b61.unity3d

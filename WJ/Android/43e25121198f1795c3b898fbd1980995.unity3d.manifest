@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4088954620
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f194d3af69516ffee667187461f1363e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f194d3af69516ffee667187461f1363e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Loop2-40.png
+Dependencies: []

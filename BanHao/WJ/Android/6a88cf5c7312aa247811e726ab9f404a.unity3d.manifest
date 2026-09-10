@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1374349610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25c0fe0e73bc20bfdc273b1824c0a464
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 25c0fe0e73bc20bfdc273b1824c0a464
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/FireLine01_3x3.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3911683429
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e993f1d479c0eed9c81f95566d4931d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 316162263003d3ca5b3ffec5afe24edf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e993f1d479c0eed9c81f95566d4931d8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/2/Hero_yanjing.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/36ab60de7e6f866c65e6f7ad6a2d5256.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/d3f395e1c582b7bf2a2a4240a34b1521.unity3d

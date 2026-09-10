@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1555857356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab31811cc1d5bb4ab4d7039a7934fd5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ab31811cc1d5bb4ab4d7039a7934fd5c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Textures/Gradient4.3.png
+Dependencies: []

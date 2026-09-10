@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1298946293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 174acdd5ed983f4f1033b2e575bf647c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 174acdd5ed983f4f1033b2e575bf647c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/sparkle_legendary.png
+Dependencies: []

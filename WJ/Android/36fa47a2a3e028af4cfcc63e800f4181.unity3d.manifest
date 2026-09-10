@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3017216341
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 261609224a68b2a282d28631c9d5dfdc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 261609224a68b2a282d28631c9d5dfdc
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Lang/Lang_Boss.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/822681b975d4477da82a1ba9be86008a.unity3d

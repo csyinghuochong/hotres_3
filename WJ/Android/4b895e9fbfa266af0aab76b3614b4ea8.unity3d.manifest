@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3928927813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 007184edbe534304e10aa656e2ba69cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 007184edbe534304e10aa656e2ba69cc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TX_wenli_00326_0001_C.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/6d87cef1dccf067985bac6a570c3d368.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a7dd1d5cd556914e2c30f130fd3183ef.unity3d

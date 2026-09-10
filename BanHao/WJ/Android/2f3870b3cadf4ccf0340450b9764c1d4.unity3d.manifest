@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3091737323
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93248eb0fb102e6b7e5fd6e022193373
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 93248eb0fb102e6b7e5fd6e022193373
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/Tonton/Texture/tontonB.png
+Dependencies: []

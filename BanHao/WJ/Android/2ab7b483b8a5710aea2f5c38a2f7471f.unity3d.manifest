@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 681766943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3d48202a33e7d0e8c79c65b4eb51f57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f9fba26cbb38215f317d1fd6b1954a0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b3d48202a33e7d0e8c79c65b4eb51f57
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 3/Models/Icewall.FBX
+Dependencies: []

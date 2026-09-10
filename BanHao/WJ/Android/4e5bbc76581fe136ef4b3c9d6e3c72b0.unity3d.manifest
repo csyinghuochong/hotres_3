@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1691400278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36b2ed5685abbf8d102c212966cad1eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 36b2ed5685abbf8d102c212966cad1eb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TX2_glow_00229_6.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c23be0314123f83e3cd36e19a0557323.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c615c6c4ff38ac3e5a5088edb478ebbc.unity3d

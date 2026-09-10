@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3275138847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40886bb6797b243cddf8e9a333d7b8ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7bb0d74fd384b4c0e1456fcd755688b0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 40886bb6797b243cddf8e9a333d7b8ea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/ScenceEffect/Effect_GetTask.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1bf6662ed38e77a405a51c23d1a723c8.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/7661b261d753e6c755a1401d5a524482.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/80195f7200ba1d0192e926347f9f0265.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/85fe5365406b4e2286784516ee0b017c.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/bda75780cd31c6ab4ffbc33dbdb5b863.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/d4776e59915340f5f46a5928a882f06a.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ef0dd6979425a381c1a2b66716518648.unity3d

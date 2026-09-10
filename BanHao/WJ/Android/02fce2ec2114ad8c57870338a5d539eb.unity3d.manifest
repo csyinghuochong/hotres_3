@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3928074010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dca9486639d66402f5c241c78f722f2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dca9486639d66402f5c241c78f722f2d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleFaShi/fentiModel/texture/Hair_00_00.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1633697300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94749bc45a1849f42ea395f1e1cdbed1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9f6e771a3b73de3ec447469409e455e0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 94749bc45a1849f42ea395f1e1cdbed1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6b98794f30642d4da510a5aa0f137d4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Sound/Boss.prefab
+Dependencies: []

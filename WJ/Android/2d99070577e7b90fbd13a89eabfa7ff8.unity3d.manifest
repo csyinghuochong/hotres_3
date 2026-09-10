@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2871247316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26eaa4037418457e7307697accb7f886
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 26eaa4037418457e7307697accb7f886
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/falloffLightbeam.png
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 600317012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 371317434f28288d040b21dea6fe7ddd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 371317434f28288d040b21dea6fe7ddd
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Eff_Skill_XuanFengZhan/Materials/Swing.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/2bf0f8701a279d5df8ba315b0b68bbe8.unity3d

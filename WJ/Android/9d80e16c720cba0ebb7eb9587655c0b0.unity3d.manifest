@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2762713060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37a69bef40c7344e58501a7b113d7760
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 37a69bef40c7344e58501a7b113d7760
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/Tree_leaves.tif
+Dependencies: []

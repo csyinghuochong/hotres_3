@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 449728244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cc855c5422416167abb4e1f519a0d75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6cc855c5422416167abb4e1f519a0d75
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/basicglow.png
+Dependencies: []

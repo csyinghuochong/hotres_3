@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4046009741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28e80cc9fc7e883a8153a5462b196a71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51ff282ef3932556f118b9b14d9487fd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 28e80cc9fc7e883a8153a5462b196a71
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Eff_Skill_XuanFengZhan/Ground02.FBX
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3241a13703a0c661c0207c5616503258.unity3d

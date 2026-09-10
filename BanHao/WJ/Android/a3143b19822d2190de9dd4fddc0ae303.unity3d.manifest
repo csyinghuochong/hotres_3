@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 373531303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d16146f2b38f8dcff69e5812619feba4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4054316b6ac65b5659950ed989926aea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d16146f2b38f8dcff69e5812619feba4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Tentacle Monster/Prefabs/Tentacle Monster-Yellow.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/76be392a7b8ef7078e8eb0eb8c6cc905.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/79e920543e40840741e7ffdd5d0fc5fb.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/881c464dd77e196ca58ee493ade69e68.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/94043c8deccc867086715e6c0c129439.unity3d

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 625372026
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0df0ef40012d59a226069f52c0065d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b0df0ef40012d59a226069f52c0065d2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Model-E3D/Materials/MA-01-face-D.mat
+Dependencies: []

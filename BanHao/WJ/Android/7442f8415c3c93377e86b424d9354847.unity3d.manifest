@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2470539035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c95f65598b5c5bceca2e41cf78254cc4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c95f65598b5c5bceca2e41cf78254cc4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectResources/Effects/Materials/E3D-Direction49-bh59.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/f5072aa985ca31039a373c2b20a3a7a3.unity3d

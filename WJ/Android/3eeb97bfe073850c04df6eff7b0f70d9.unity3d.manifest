@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2395766788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32376f0bd4101e947cc26f6530f7816d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 32376f0bd4101e947cc26f6530f7816d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Zoo/Cute Zoo 2/Texture/T_GorillaA.png
+Dependencies: []

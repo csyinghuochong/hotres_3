@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4131710431
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10b11b20ff7cca76a4056376eae23175
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b05fd766c82853b76caf5e90b4f6ec9a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 10b11b20ff7cca76a4056376eae23175
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/BMFonts/Font1/font_1_0.fontsettings
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/5b177d5cf259b3a406f0be34e5ec98d5.unity3d

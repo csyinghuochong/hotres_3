@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1204921527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebeee5a73f0f55744f96cb941b6ca3f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ebeee5a73f0f55744f96cb941b6ca3f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/ScenceModel/Simple Dungeon Props - YP/Models/Coins/Coins.fbx
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/b6f316118abb5d24d364cc2ebf803609.unity3d

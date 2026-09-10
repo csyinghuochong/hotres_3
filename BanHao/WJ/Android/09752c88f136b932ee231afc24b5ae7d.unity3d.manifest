@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2448965235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50401df4de9189319ef2872079465697
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 50401df4de9189319ef2872079465697
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/B1/Effect/Animations/E3D-Ballistic-Blast-Blue1.controller
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/fdf49c4f09afa9e77336bae0783cffd6.unity3d

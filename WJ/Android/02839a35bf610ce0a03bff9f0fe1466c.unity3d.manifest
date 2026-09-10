@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1944736555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e532fcf967f97a0ca69c86fdb995f0be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e532fcf967f97a0ca69c86fdb995f0be
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Materials/Tx_Staircase2.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/a712ca93c4234a629677dfef31f416fd.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/bd0be3b4f82a53e2c28c112f0a8f67ad.unity3d

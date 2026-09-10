@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 705921574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c75f295ca6ce60b9781e4ac55dcf18b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7c75f295ca6ce60b9781e4ac55dcf18b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Shion/Models/Textures/HairShadow.png
+Dependencies: []

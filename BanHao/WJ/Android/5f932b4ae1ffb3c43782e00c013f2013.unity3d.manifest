@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3640782325
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6718680ad34e405e49bc5b0bd54d89a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a392ce9ecc88fcdc53d8cc9f3518339
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6718680ad34e405e49bc5b0bd54d89a4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8373842c4e11e494aa5d1a146b6ffc22, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/UseModel/Buildings_J3_1.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/07f9659649568cb0a419d9f960387d57.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/8cee44db43f75a4f61e2d8c4d181d9d3.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/9c4be66121029329e6d7e6e2c0d707d1.unity3d

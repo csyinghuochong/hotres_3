@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 4162912012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 804054559bce591006d41daf7d4b5f09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 849a14357b956bc55c7cd76cff4058b6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 804054559bce591006d41daf7d4b5f09
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bcab237b25e847e4e92bcbca979983b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 396e3c1fc1364c14fa63649b3f3cbe01, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/2000003.unity
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/107cbca0e2a09faa454974a81a415729.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1f774dfba303252d61e74c3d19e28d6f.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/29344155370f5d6fd7504a0c0d03fba2.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/38691800cb266819fe182807b028bc24.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3c9165c8ff411f2b4e3c1baf90146653.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/3e12428713895b6c3c134967f52b0846.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/40bf40e04fad0f80606fb4ccc169dc69.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/65f5264393aa949fdb4cb1719d951055.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/a14c01bb1b4f2bd12dec019f708b468d.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/b11310843559e5c83227406844ec3198.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/d3de9dbc8882d56d235603cceef9edec.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/d65bd7e708aee1b7b75162b41bc86cd8.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/ed5c0ef5310c9137dbbcfaf31d7041c4.unity3d

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1941612899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29454283a1e890d0584cb0deeb340565
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 29454283a1e890d0584cb0deeb340565
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Radish_01_Normal.png
+Dependencies: []

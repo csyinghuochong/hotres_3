@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3802840835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78bbde15d158894e61428312bae022ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 78bbde15d158894e61428312bae022ef
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/Critical
+  Strike/Splash01.png
+Dependencies: []

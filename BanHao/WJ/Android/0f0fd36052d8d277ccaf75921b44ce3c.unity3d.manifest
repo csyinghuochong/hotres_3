@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 385300390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b96558f0eabe01449b54fba89c3a6960
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b96558f0eabe01449b54fba89c3a6960
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/shenshengfengbao.mp3
+Dependencies: []

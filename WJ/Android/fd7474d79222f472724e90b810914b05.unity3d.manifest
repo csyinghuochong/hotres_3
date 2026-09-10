@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1019046736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b34b32b6f840ca2281fb7d2b36afb1b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f9fba26cbb38215f317d1fd6b1954a0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b34b32b6f840ca2281fb7d2b36afb1b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/FBX FIles/Nature/SM_tree_01.fbx
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2329730167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8728d84b4089d57de9a2d0742ff5fc8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d8728d84b4089d57de9a2d0742ff5fc8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/falloffLightbeamAdd.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/2d99070577e7b90fbd13a89eabfa7ff8.unity3d

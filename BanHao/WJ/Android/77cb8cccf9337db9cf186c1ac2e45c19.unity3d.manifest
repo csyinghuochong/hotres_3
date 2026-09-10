@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2547207333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7935c3910a47db94e8dbaa7fa1bd82a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d7935c3910a47db94e8dbaa7fa1bd82a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Other/Model/Materials/environment_Building_qingsangcheng_001_03.mat
+Dependencies: []

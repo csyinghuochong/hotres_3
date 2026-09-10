@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3868636303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23c4ee17b1ab847b9fd9d8a04a1c4834
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 23c4ee17b1ab847b9fd9d8a04a1c4834
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Moon4.png
+Dependencies: []

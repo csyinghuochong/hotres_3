@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 221982941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7bd26af89d052cfae2ba27b8123e4f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d7bd26af89d052cfae2ba27b8123e4f1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Stretch_Hit01.png
+Dependencies: []

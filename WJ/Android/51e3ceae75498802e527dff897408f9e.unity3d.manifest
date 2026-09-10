@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 885070846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb62a8b0382f2b209cf31c9ea980005c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bb62a8b0382f2b209cf31c9ea980005c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/SM_woodenbeam_wooden_planklow_default_BaseMap.png
+Dependencies: []

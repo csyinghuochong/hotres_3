@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1711790082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5836e2b43d874adfdb0a6cc09966ebf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5836e2b43d874adfdb0a6cc09966ebf3
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/RandomTowerConfigCategory.bytes
+Dependencies: []

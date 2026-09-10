@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3830070283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62db341156bf8a610a0c10cb9ef589c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: da51c371cb987de4c5a6564d4db74b89
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 62db341156bf8a610a0c10cb9ef589c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Zoo/Animations_Cute_Animals/Turtle/Animal_Turtle@Die.fbx
+Dependencies: []

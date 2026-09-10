@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2358437621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd79893891445b26c75cc4b7bc3d6d06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dd79893891445b26c75cc4b7bc3d6d06
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_393.png
+Dependencies: []

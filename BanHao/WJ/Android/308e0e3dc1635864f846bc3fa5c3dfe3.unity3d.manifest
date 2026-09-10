@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 309002271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b169757970a3b073495accb9e43c40fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b169757970a3b073495accb9e43c40fd
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Materials/environment_common_zuoxi_001_02.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c0f0e93924c0182fe4c4820451411742.unity3d

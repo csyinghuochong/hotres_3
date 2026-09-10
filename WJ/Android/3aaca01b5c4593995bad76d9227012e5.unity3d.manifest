@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1659632473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a4677e5f290582d8740e43898fa6007
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1a4677e5f290582d8740e43898fa6007
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_rope_diff.png
+Dependencies: []

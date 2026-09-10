@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2684676969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38c988e7ea3cf61862be6cac50484d7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e713c64041ec2f2f3ab90358a4db002c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 38c988e7ea3cf61862be6cac50484d7a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_Fireball_15.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/2ab215e4129461659b2f137d6f19dcc0.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/32ae72b2d3b3ab2b1ec7d5a5db78593a.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/72065b50ad804740eec18ec053a036bf.unity3d

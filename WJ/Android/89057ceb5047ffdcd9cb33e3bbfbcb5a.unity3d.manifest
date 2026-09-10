@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4217336320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63aeccf71afd38b7f09c4285e1c4b76a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 63aeccf71afd38b7f09c4285e1c4b76a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/t_trail03.png
+Dependencies: []

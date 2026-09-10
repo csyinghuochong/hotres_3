@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3804550944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74574e2f7df164a6a4facb97ccc2105b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05cc24d19dc4240fd268396c9e2f3d50
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 74574e2f7df164a6a4facb97ccc2105b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/ZhangJie_5/HuoZhiZhu/ZhiZhu_1.fbx
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/9c152682b6316ec674bbaf84664a09e1.unity3d

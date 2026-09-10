@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2156154279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5dfc534047d3049a0894a92f81b9e8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b5dfc534047d3049a0894a92f81b9e8a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Moon5.tga
+Dependencies: []

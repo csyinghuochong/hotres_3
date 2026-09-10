@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2358569966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e7d498b8039aa39b5d5f1ed8fabfacc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3e7d498b8039aa39b5d5f1ed8fabfacc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/House/Texture/BANDIT_ROPE_01.png
+Dependencies: []

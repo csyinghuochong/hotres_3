@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2075260856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d2f178166a8ac8dce71c7b5c0837e63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5d2f178166a8ac8dce71c7b5c0837e63
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Materials/Stone3bcg.mat
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/efd9d0b4f4c8d8b2730c4afb43458653.unity3d

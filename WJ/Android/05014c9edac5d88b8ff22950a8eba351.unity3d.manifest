@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2194625318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2655539fa5d575d86f1b426a2b28cd33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2655539fa5d575d86f1b426a2b28cd33
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/StartProcessConfigCategory.bytes
+Dependencies: []

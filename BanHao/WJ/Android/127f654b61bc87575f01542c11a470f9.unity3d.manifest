@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2231727434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab4730a3b3521d1a983fb585fefadb5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c62b702a81ab0bee6a5c25b161543b44
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ab4730a3b3521d1a983fb585fefadb5c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1359aeb37551d8a49b82c3d932442b18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13c069d4436af354ea1d6c82ee2689d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb1bdc494efdf284d822adfef67aaaac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2908ba465ad314eb8bf353a385df67, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_QunDu_2.prefab
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/43946489ac5ad622b28773fe2cdec63f.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/50d0c1813f82d388950e2fd43e824df8.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/bf70c6db0c0c12e04df48bd3f4d4b508.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/c33c25bc17b8835a44ebc6961f2d4c86.unity3d

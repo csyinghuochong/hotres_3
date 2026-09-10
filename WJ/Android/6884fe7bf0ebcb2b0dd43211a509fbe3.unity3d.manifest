@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3988820178
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cd97d991a74a374b2f1d3e5eac89a37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1cd97d991a74a374b2f1d3e5eac89a37
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/Common_Buff_dalong/nengliang.controller
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/dcb8edf72f3e27f0ac3cc119ad2c9468.unity3d

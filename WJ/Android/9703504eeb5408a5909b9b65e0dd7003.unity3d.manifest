@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 809949284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0eeb453a4294401e6b639410ce0e2a66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0cc48d0fab0a55c5275b677e0368409d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0eeb453a4294401e6b639410ce0e2a66
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68206c1190067b447bfa084a934488d6, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Cloud/Cloud.prefab
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/ed5c0ef5310c9137dbbcfaf31d7041c4.unity3d

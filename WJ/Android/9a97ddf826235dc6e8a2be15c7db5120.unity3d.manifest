@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2112656636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88229e811d184856ef7bff9bdfc113d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 88229e811d184856ef7bff9bdfc113d5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/building_Herbal_tree.FBX
+Dependencies:
+- G:/GitWeiJing20220362/Unity/../Release/DLCBeta20220362/WJ/Android/2c3da8ba63bb8d9dc6d445982cd91421.unity3d

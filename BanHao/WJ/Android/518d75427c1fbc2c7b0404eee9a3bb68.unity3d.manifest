@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1584794103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9470a47dc25d1d157542764bb902df6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d9470a47dc25d1d157542764bb902df6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Materials/Zo_Cliffrock01_shadow.mat
+Dependencies:
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- F:/GitWeiJingBanHao/Unity/../Release/DLCBeta20220362/BanHao/WJ/Android/cc501d5de1a17eb7d69eb1f1fdc035a1.unity3d
